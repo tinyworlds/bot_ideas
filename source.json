@@ -1,0 +1,32 @@
+{
+"setvariables":["[gardenanimal:#animals1#][gardenborder:#gardenborder1#]"],	
+
+"origin": ["#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\nʰᵉʳᵉ ᵃʳᵉ ˢᵒᵐᵉ ᶠᶫᵒʷᵉʳˢ ᶠᵒʳ ʸᵒᵘ", "tiny #tiny1a# #tiny1b#", "#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\nᵉˣᵖᶫᵒʳᵉ ᵗʰᵉ ᵗᶦᶰʸ ᶠᵒʳᵉˢᵗ", "#[#setvariables#]garden1#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#"],
+	
+	"flowers1": ["🌹", "🌷", "🌺", "🌻", "🌼"],
+	"plants1":["🌱", "🌾", "🌿", "🍃"],
+	"animals1":["🐇", "🐑", "🐓", "🐥", "🐘", "🐖", "🐌", "🐛", "🐞", "🐀"],
+	"gardenborder1":["🌲", "🌳", "🐚", "🍞", "❤️", "✨", "💚", "⭐️", "🌻", "🍀", "🍁", "🌰", "🐁", "🐂", "🌞", "🍊", "🍪", "🎋", "🎍", "💫", "🎈", "🎐"],
+	"garden1":["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##plants1##gardenanimal##plants1##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʸᵒᵘʳ ᵗᶦᶰʸ ᵍᵃʳᵈᵉᶰ"],
+
+	"runes1":[
+"ᚠ","ᚡ","ᚢ","ᚣ","ᚤ","ᚥ","ᚦ","ᚧ","ᚨ","ᚩ","ᚪ","ᚫ","ᚬ","ᚭ","ᚮ","ᚯ","ᚰ","ᚱ","ᚲ","ᚳ","ᚴ","ᚵ","ᚶ","ᚷ","ᚸ","ᚹ","ᚺ","ᚻ","ᚼ","ᚽ","ᚾ","ᚿ","ᛀ","ᛁ","ᛂ","ᛃ","ᛄ","ᛅ","ᛆ","ᛇ","ᛈ","ᛉ","ᛊ","ᛋ","ᛌ","ᛍ","ᛎ","ᛏ","ᛐ","ᛑ","ᛒ","ᛓ","ᛔ","ᛕ","ᛖ","ᛗ","ᛘ","ᛙ","ᛚ","ᛛ","ᛜ","ᛝ","ᛞ","ᛟ","ᛠ","ᛡ","ᛢ","ᛣ","ᛤ","ᛥ","ᛦ","ᛧ","ᛨ","ᛩ","ᛪ","᛫","᛬","᛭","ᛮ","ᛯ","ᛰ"],
+
+	"tiny1a":["mushroom🍄", "walnut", "snail","hazelnut","fairy", "acorn", "autumn", "forest🍃"],
+	"tiny1b":["house", "home", "hut", "tower", "refuge", "planet", "world"],
+	"tiny2a":["tiny", "cute", "small", "pretty", "rainbow", "glowing"],
+
+	"story1a":["bear🐻", "cat🐱", "fairy", "deer", "bunny🐰", "snail🐌"],
+	"story1b":["on adventures", "in the city", "in the forest", "making art", "loving food"],
+
+	"forest1":["🌲", "🌳"]
+}
+
+
+
+
+
+
+
+
+
