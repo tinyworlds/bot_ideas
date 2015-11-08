@@ -1,7 +1,7 @@
 {
 "setvariables":["[gardenanimal:#animals1#][gardenborder:#gardenborder1#]"],	
 
-"origin": ["#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\nʰᵉʳᵉ ᵃʳᵉ ˢᵒᵐᵉ ᶠᶫᵒʷᵉʳˢ ᶠᵒʳ ʸᵒᵘ", "tiny #tiny1a# #tiny1b#", "#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\nᵉˣᵖᶫᵒʳᵉ ᵗʰᵉ ᵗᶦᶰʸ ᶠᵒʳᵉˢᵗ", "#[#setvariables#]garden1#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#"],
+"origin": ["#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\n#flowers1##flowers1##flowers1##flowers1##flowers1#\nʰᵉʳᵉ ᵃʳᵉ ˢᵒᵐᵉ ᶠᶫᵒʷᵉʳˢ ᶠᵒʳ ʸᵒᵘ", "tiny #tiny1a# #tiny1b#", "#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\n#forest1##forest1##forest1##forest1##forest1#\nᵉˣᵖᶫᵒʳᵉ ᵗʰᵉ ᵗᶦᶰʸ ᶠᵒʳᵉˢᵗ", "#[#setvariables#]garden1#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#"],
 	
 	"flowers1": ["🌹", "🌷", "🌺", "🌻", "🌼"],
 	"plants1":["🌱", "🌾", "🌿", "🍃"],
@@ -21,10 +21,6 @@
 
 	"forest1":["🌲", "🌳"]
 }
-
-
-
-
 
 
 
