@@ -1,4 +1,4 @@
-"you are on a tiny autumn planet
+"you are on a tiny autumn planet  
 your space garden is lovely"
 
 https://twitter.com/bot_ideas 
@@ -8,16 +8,11 @@ This bot is an in-progress collection of art bot experiments by me.
 The source code is for the free, easy to use tool http://cheapbotsdonequick.com/.
 
 ##Reactions
-"This immediately gave me loads of ideas!"  
+*"This immediately gave me loads of ideas!"*  
 – Rachel Sanson
   
-"I feel like @bot_ideas is basically #Samorost3 in tweet form."  
+*"I feel like @bot_ideas is basically #Samorost3 in tweet form."*  
 – Milan Pingel
-  
-Experiments include:  
-- using emojis to create visuals
-- support messages trough emojis
-- inspiring art creation by visually oriented place descriptions
 
 ##Tips
 - On Twitter, certain unicode symbols turn into emojis. You can use Lists such as https://t.co/IvzCX2y5ep to find the unicode symbol for an emoji. You then can copy&paste them in CheapBotsDoneQuick (they will turn into Emojis after being tweeted).
