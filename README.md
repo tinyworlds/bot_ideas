@@ -8,10 +8,10 @@ This bot is an in-progress collection of art bot experiments by me.
 The source code is for the free, easy to use tool http://cheapbotsdonequick.com/.
 
 ##Reactions
-"This immediately gave me loads of ideas!"
+"This immediately gave me loads of ideas!"  
 – Rachel Sanson
-
-"I feel like @bot_ideas is basically #Samorost3 in tweet form."
+  
+"I feel like @bot_ideas is basically #Samorost3 in tweet form."  
 – Milan Pingel
   
 Experiments include:  
