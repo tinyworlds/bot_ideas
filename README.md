@@ -1,11 +1,18 @@
-"look at me! I'm a tiny bear"  
-"hmmmm small mushroom"
+"you are on a tiny autumn planet
+your space garden is lovely"
 
 https://twitter.com/bot_ideas 
 
 ##About
 This bot is an in-progress collection of art bot experiments by me.  
 The source code is for the free, easy to use tool http://cheapbotsdonequick.com/.
+
+##Reactions
+"This immediately gave me loads of ideas!"
+- Rachel Sanson
+
+"I feel like @bot_ideas is basically #Samorost3 in tweet form."
+- Milan Pingel
   
 Experiments include:  
 - using emojis to create visuals
