@@ -7,6 +7,11 @@ https://twitter.com/bot_ideas
 This bot is an in-progress collection of art bot experiments by me.  
 The source code is for the free, easy to use tool http://cheapbotsdonequick.com/.
 
+Experiments include:
+- tiny emoji gardens
+- you being in space
+- making friends with strange animals
+
 ##Reactions
 *"This immediately gave me loads of ideas!"*  
 – Rachel Sanson
