@@ -9,10 +9,10 @@ The source code is for the free, easy to use tool http://cheapbotsdonequick.com/
 
 ##Reactions
 "This immediately gave me loads of ideas!"
-- Rachel Sanson
+– Rachel Sanson
 
 "I feel like @bot_ideas is basically #Samorost3 in tweet form."
-- Milan Pingel
+– Milan Pingel
   
 Experiments include:  
 - using emojis to create visuals
