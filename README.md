@@ -1,4 +1,4 @@
-"today I made friends with a cute cat 
+"today I made friends with a cute cat  
 he loved wild berries as much as I do!"
 
 https://twitter.com/bot_ideas 
