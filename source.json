@@ -1,7 +1,7 @@
 {
 "setvariables":["[gardenanimal:#animals1#][gardenborder:#gardenborder1#]"],	
 
-"origin": ["#[#setvariables#]flowers#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#forest1#", "#ocean#", "A #story1a# #story1b# tells you:\n\nFind #forestquest1# and #forestquest2#.\n", "#strange1#\n#strange2#"],
+"origin": ["#[#setvariables#]flowers#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#\n\n#friendthings#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#forest1#", "#ocean#", "A #story1a# #story1b# tells you:\n\nFind #forestquest1# and #forestquest2#.\n", "#strange1#\n#strange2#"],
 	
 	"flowers1": ["🌹", "🌷", "🌺", "🌻", "🌼"],
 	"plants1":["🌱", "🌾", "🌿", "🍃"],
@@ -14,7 +14,9 @@
 
 	"flowers":["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʰᵉʳᵉ ᵃʳᵉ ˢᵒᵐᵉ ᶠᶫᵒʷᵉʳˢ ᶠᵒʳ ʸᵒᵘ"],
 
-	"ocean":["🌊🌊🌊🌊🌊\n🌊🌊🌊🌊🌊\n🌊🌊#animals1#🌊🌊\n🌊🌊🌊🌊🌊\n🌊🌊🌊🌊🌊\nᵗʰᵉ ᵒᶜᵉᵃᶰ ᶦˢ ᵇᵉᵃᵘᵗᶦᶠᵘᶫ ᵗᵒᵈᵃʸ"],
+	"ocean":["🌊🌊🌊🌊🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊#oceanchance##oceanthings##oceanchance#🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊🌊🌊🌊🌊\nᵗʰᵉ ᵒᶜᵉᵃᶰ ᶦˢ ᵇᵉᵃᵘᵗᶦᶠᵘᶫ ᵗᵒᵈᵃʸ"],
+	"oceanthings":["#animals1#", "🐳", "🐟", "🐬", "🐠", "🐡", "🏝", "🏖", "🌄", "⛵", "🎍", "🏄"],
+	"oceanchance":["🌊", "🌀", "💧", "💦", "💙"],
 
 
 	"tiny1a":["mushroom🍄", "walnut", "snail","hazelnut","fairy", "acorn", "autumn", "forest🍃"],
@@ -22,10 +24,11 @@
 	"tiny2a":["tiny", "cute", "small", "pretty", "rainbow", "glowing", "colorful"],
 
 
-	"story1a":["bear🐻", "cat🐱", "fairy", "deer", "bunny🐰", "snail🐌"],
+	"story1a":["bear🐻", "cat🐱", "fairy", "deer", "bunny🐰", "snail🐌", "bird", "blackbird", "raven", "frog"],
 	"story1b":["on adventures", "in the city", "making art", "with a tophat", "in the bush", "in the cave", "in the woods", "in the forest"],
+	"friendthings":["#heshe# loved #forestquest1# as much as I do!", "#heshe# showed me their #tiny2a# #tiny1b#!", "we collected all #forestquest1# we could find!", "we talked about creating our own #tiny1b#!"],
 
-
+	"heshe":["he", "she"],
 
 	"forestquest1":["acorns", "pinecones", "pieces of bark", "little rocks", "twigs and branches 🌿", "snail shells 🐚", "leaves 🍃", "mud clumps", "wild berries 🍇", "flowers 🌺", "colorful rocks"],
 	"forestquest2":["throw them as far as you can", "use them to build an occult circle", "gift them to a friend", "take them home with you", "observe them closely", "collect them in a glass jar", "test if they swim", "feel their texture", "smell on them", "leave them where they are", "describe them in 3 words", "describe them with one word", "hide them in a secret place, only you know"],
