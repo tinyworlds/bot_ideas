@@ -1,7 +1,7 @@
 {
 "setvariables":["[gardenanimal:#animals1#][gardenborder:#gardenborder1#]"],	
 
-"origin": ["#[#setvariables#]flowers#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#\n\n#friendthings#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#forest1#", "#ocean#", "A #story1a# #story1b# tells you:\n\nFind #forestquest1# and #forestquest2#.\n", "#strange1#\n#strange2#"],
+"origin": ["#[#setvariables#]flowers#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#\n\n#friendthings#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#forest1#", "#ocean#", "A #story1a# #story1b# tells you:\n\nFind #forestquest1# and #forestquest2#.\n", "A #story1a# #story1b# tells you:\n\n#forestquest3#.\n", "#strange1#\n#strange2#"],
 	
 	"flowers1": ["🌹", "🌷", "🌺", "🌻", "🌼"],
 	"plants1":["🌱", "🌾", "🌿", "🍃"],
@@ -32,9 +32,12 @@
 
 	"forestquest1":["acorns", "pinecones", "pieces of bark", "little rocks", "twigs and branches 🌿", "snail shells 🐚", "leaves 🍃", "mud clumps", "wild berries 🍇", "flowers 🌺", "colorful rocks"],
 	"forestquest2":["throw them as far as you can", "use them to build an occult circle", "gift them to a friend", "take them home with you", "observe them closely", "collect them in a glass jar", "test if they swim", "feel their texture", "smell on them", "leave them where they are", "describe them in 3 words", "describe them with one word", "hide them in a secret place, only you know"],
+	"forestquest3":["Build a #tiny1b# for #tiny2a# animals"],
 
 
 
-	"strange1":["you are on a tiny planet", "you are lost in space", "you are on a strange planet", "you are on a #tiny2a# #tiny1a# planet", "you are a #tiny2a# #story1a# on a tiny planet"],
-	"strange2":["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground"]
+	"strange1":["you are on a tiny planet", "you are lost in space", "you are on a strange planet", "you are on a #tiny2a# #tiny1a# planet", "you are a #tiny2a# #story1a# on a tiny planet", "you discover #tiny1b.a# planet"],
+	"strange2":["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here"]
 }
+
+
