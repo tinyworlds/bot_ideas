@@ -26,18 +26,16 @@
 
 	"story1a":["bear🐻", "cat🐱", "fairy", "deer", "bunny🐰", "snail🐌", "bird", "blackbird", "raven", "frog"],
 	"story1b":["on adventures", "in the city", "making art", "with a tophat", "in the bush", "in the cave", "in the woods", "in the forest"],
-	"friendthings":["#heshe# loved #forestquest1# as much as I do!", "#heshe# showed me their #tiny2a# #tiny1b#!", "we collected all #forestquest1# we could find!", "we talked about creating our own #tiny1b#!"],
+	"friendthings":["#heshe# loved #forestquest1# as much as I do!", "#heshe# showed me their #tiny2a# #tiny1b#!", "we collected all #forestquest1# we could find!", "we talked about creating our own #tiny1b#!", "we had lunch on a tree!", "we took a nap in my #tiny1b#", "we ate some cookies together!", "we drank a good cup of tea!", "we made a delicious mushroom soup!", "we cuddled together!"],
 
 	"heshe":["he", "she"],
 
-	"forestquest1":["acorns", "pinecones", "pieces of bark", "little rocks", "twigs and branches 🌿", "snail shells 🐚", "leaves 🍃", "mud clumps", "wild berries 🍇", "flowers 🌺", "colorful rocks"],
-	"forestquest2":["throw them as far as you can", "use them to build an occult circle", "gift them to a friend", "take them home with you", "observe them closely", "collect them in a glass jar", "test if they swim", "feel their texture", "smell on them", "leave them where they are", "describe them in 3 words", "describe them with one word", "hide them in a secret place, only you know"],
+	"forestquest1":["acorns", "pinecones", "pieces of bark", "little rocks", "twigs and branches 🌿", "snail shells 🐚", "leaves 🍃", "mud clumps", "wild berries 🍇", "flowers 🌺", "colorful rocks", "pebbles"],
+	"forestquest2":["throw them as far as you can", "use them to build an occult circle", "gift them to a friend", "take them home with you", "observe them closely", "collect them in a glass jar", "test if they swim", "feel their texture", "smell on them", "leave them where they are", "describe them in 3 words", "describe them with one word", "hide them in a secret place, only you know", "bring them to your treehouse", "draw on them"],
 	"forestquest3":["Build a #tiny1b# for #tiny2a# animals"],
 
 
 
 	"strange1":["you are on a tiny planet", "you are lost in space", "you are on a strange planet", "you are on a #tiny2a# #tiny1a# planet", "you are a #tiny2a# #story1a# on a tiny planet", "you discover #tiny1b.a# planet"],
-	"strange2":["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here"]
+	"strange2":["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here", "your best friend is #tiny2a.a# #story1a#"]
 }
-
-
