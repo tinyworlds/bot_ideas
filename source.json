@@ -1,50 +1,50 @@
 {
-"setvariables":["[gardenanimal:#animals1#][gardenborder:#gardenborder1#]"],	
+	"setvariables": ["[gardenanimal:#animals1#][gardenborder:#gardenborder1#]"],
 
-"origin": ["#[#setvariables#]flowers#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#\n\n#friendthings#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#forest1#", "#ocean#", "A #story1a# #story1b# tells you:\n\nFind #forestquest1# and #forestquest2#.\n", "A #story1a# #story1b# tells you:\n\n#forestquest3#.\n", "#strange1#\n#strange2#", "#tr_generate#"],
-	
+	"origin": ["#[#setvariables#]flowers#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#\n\n#friendthings#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#forest1#", "#ocean#", "A #story1a# #story1b# tells you:\n\nFind #forestquest1# and #forestquest2#.\n", "A #story1a# #story1b# tells you:\n\n#forestquest3#.\n", "#strange1#\n#strange2#", "#tr_generate#"],
+
 	"flowers1": ["🌹", "🌷", "🌺", "🌻", "🌼"],
-	"plants1":["🌱", "🌾", "🌿", "🍃"],
-	"animals1":["🐇", "🐑", "🐓", "🐥", "🐘", "🐖", "🐌", "🐛", "🐞", "🐀", "🐐", "🐺", "🦊"],
-	"gardenborder1":["🌲", "🌳", "🐚", "🍞", "❤️", "✨", "💚", "⭐️", "🌻", "🍀", "🍁", "🌰", "🐁", "🐂", "🌞", "🍊", "🍪", "🎋", "🎍", "💫", "🎈", "🎐"],
-	"trees":["🌲", "🌳"],
+	"plants1": ["🌱", "🌾", "🌿", "🍃"],
+	"animals1": ["🐇", "🐑", "🐓", "🐥", "🐘", "🐖", "🐌", "🐛", "🐞", "🐀", "🐐", "🐺", "🦊"],
+	"gardenborder1": ["🌲", "🌳", "🐚", "🍞", "❤️", "✨", "💚", "⭐️", "🌻", "🍀", "🍁", "🌰", "🐁", "🐂", "🌞", "🍊", "🍪", "🎋", "🎍", "💫", "🎈", "🎐"],
+	"trees": ["🌲", "🌳"],
 
-	"garden1":["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##plants1##gardenanimal##plants1##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʸᵒᵘʳ ᵗᶦᶰʸ ᵍᵃʳᵈᵉᶰ"],
-	"forest1":["#plants1##plants1##plants1##plants1##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##plants1##plants1##plants1##plants1#\nᵉˣᵖᶫᵒʳᵉ ᵗʰᵉ ᵗᶦᶰʸ ᶠᵒʳᵉˢᵗ"],
+	"garden1": ["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##plants1##gardenanimal##plants1##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʸᵒᵘʳ ᵗᶦᶰʸ ᵍᵃʳᵈᵉᶰ"],
+	"forest1": ["#plants1##plants1##plants1##plants1##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##plants1##plants1##plants1##plants1#\nᵉˣᵖᶫᵒʳᵉ ᵗʰᵉ ᵗᶦᶰʸ ᶠᵒʳᵉˢᵗ"],
 
-	"flowers":["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʰᵉʳᵉ ᵃʳᵉ ˢᵒᵐᵉ ᶠᶫᵒʷᵉʳˢ ᶠᵒʳ ʸᵒᵘ"],
+	"flowers": ["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʰᵉʳᵉ ᵃʳᵉ ˢᵒᵐᵉ ᶠᶫᵒʷᵉʳˢ ᶠᵒʳ ʸᵒᵘ"],
 
-	"ocean":["🌊🌊🌊🌊🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊#oceanchance##oceanthings##oceanchance#🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊🌊🌊🌊🌊\nᵗʰᵉ ᵒᶜᵉᵃᶰ ᶦˢ ᵇᵉᵃᵘᵗᶦᶠᵘᶫ ᵗᵒᵈᵃʸ"],
-	"oceanthings":["#animals1#", "🐳", "🐟", "🐬", "🐠", "🐡", "🏝", "🏖", "🌄", "⛵", "🎍", "🏄"],
-	"oceanchance":["🌊", "🌀", "💧", "💦", "💙"],
-
-
-	"tiny1a":["mushroom🍄", "walnut", "snail","hazelnut","fairy", "acorn", "autumn", "forest🍃"],
-	"tiny1b":["house", "home", "hut", "tower", "refuge", "planet", "world"],
-	"tiny2a":["tiny", "cute", "small", "pretty", "rainbow", "glowing", "colorful", "#tr_adj#"],
+	"ocean": ["🌊🌊🌊🌊🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊#oceanchance##oceanthings##oceanchance#🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊🌊🌊🌊🌊\nᵗʰᵉ ᵒᶜᵉᵃᶰ ᶦˢ ᵇᵉᵃᵘᵗᶦᶠᵘᶫ ᵗᵒᵈᵃʸ"],
+	"oceanthings": ["#animals1#", "🐳", "🐟", "🐬", "🐠", "🐡", "🏝", "🏖", "🌄", "⛵", "🎍", "🏄"],
+	"oceanchance": ["🌊", "🌀", "💧", "💦", "💙"],
 
 
-	"story1a":["bear🐻", "cat🐱", "fairy", "deer 🦌", "bunny🐰", "snail🐌", "bird", "blackbird", "raven", "frog 🐸", "fox 🦊", "squirrel 🐿",  "duck 🦆", "owl 🦉"],
-	"story1b":["on adventures", "in the city", "making art", "with a tophat", "in the bush", "in the cave", "in the woods", "in the forest", "in the water", "collecting flowers", "in a treecave"],
-	"friendthings":["#heshe# loved #forestquest1# as much as I do!", "#heshe# loved #tr_noun# as much as I do!", "#heshe# showed me their #tiny2a# #tiny1b#!", "we collected all #forestquest1# we could find!", "we talked about creating our own #tiny1b#!", "we talked about creating our #tr_adj# #tr_noun#!", "we had lunch on a tree!", "we took a nap in my #tiny1b#", "we ate some cookies together!", "we drank a good cup of tea!", "we made a delicious mushroom soup!", "we cuddled together!", "we watched the fireflies dance!", "we lied down in a bed of moss!", "we made little flower crowns together!"],
-
-	"heshe":["he", "she"],
-
-	"forestquest1":["acorns", "pinecones", "pieces of bark", "little rocks", "twigs and branches 🌿", "snail shells 🐚", "leaves 🍃", "mud clumps", "wild berries 🍇", "flowers 🌺", "colorful rocks", "pebbles"],
-	"forestquest2":["throw them as far as you can", "use them to build an occult circle", "gift them to a friend", "take them home with you", "observe them closely", "collect them in a glass jar", "test if they swim", "feel their texture", "smell on them", "leave them where they are", "describe them in 3 words", "describe them with one word", "hide them in a secret place, only you know", "bring them to your treehouse", "draw on them"],
-	"forestquest3":["Build a #tiny1b# for #tiny2a# animals"],
+	"tiny1a": ["mushroom🍄", "walnut", "snail", "hazelnut", "fairy", "acorn", "autumn", "forest🍃"],
+	"tiny1b": ["house", "home", "hut", "tower", "refuge", "planet", "world"],
+	"tiny2a": ["tiny", "cute", "small", "pretty", "rainbow", "glowing", "colorful", "#tr_adj#"],
 
 
+	"story1a": ["bear🐻", "cat🐱", "fairy", "deer 🦌", "bunny🐰", "snail🐌", "bird", "blackbird", "raven", "frog 🐸", "fox 🦊", "squirrel 🐿", "duck 🦆", "owl 🦉"],
+	"story1b": ["on adventures", "in the city", "making art", "with a tophat", "in the bush", "in the cave", "in the woods", "in the forest", "in the water", "collecting flowers", "in a treecave"],
+	"friendthings": ["#heshe# loved #forestquest1# as much as I do!", "#heshe# loved #tr_noun# as much as I do!", "#heshe# showed me their #tiny2a# #tiny1b#!", "we collected all #forestquest1# we could find!", "we talked about creating our own #tiny1b#!", "we talked about creating our #tr_adj# #tr_noun#!", "we had lunch on a tree!", "we took a nap in my #tiny1b#", "we ate some cookies together!", "we drank a good cup of tea!", "we made a delicious mushroom soup!", "we cuddled together!", "we watched the fireflies dance!", "we lied down in a bed of moss!", "we made little flower crowns together!"],
 
-	"strange1":["you are on a tiny planet", "you are lost in space", "you are on a strange planet", "you are on a #tiny2a# #tiny1a# planet", "you are a #tiny2a# #story1a# on a tiny planet", "you discover #tiny1b.a# planet"],
-	"strange2":["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here", "your best friend is #tiny2a.a# #story1a#", "you meet a friend", "you find a tiny door", "you sit down and open your book", "you explore an old ruin", "you feel at peace", "you feel free", "you #tr_act# #tr_adj# #tr_noun#"],
+	"heshe": ["he", "she"],
 
-	"itswho":["✨✨✨", "🌟", "💕💕💕"],
+	"forestquest1": ["acorns", "pinecones", "pieces of bark", "little rocks", "twigs and branches 🌿", "snail shells 🐚", "leaves 🍃", "mud clumps", "wild berries 🍇", "flowers 🌺", "colorful rocks", "pebbles"],
+	"forestquest2": ["throw them as far as you can", "use them to build an occult circle", "gift them to a friend", "take them home with you", "observe them closely", "collect them in a glass jar", "test if they swim", "feel their texture", "smell on them", "leave them where they are", "describe them in 3 words", "describe them with one word", "hide them in a secret place, only you know", "bring them to your treehouse", "draw on them"],
+	"forestquest3": ["Build a #tiny1b# for #tiny2a# animals"],
 
-"tr_generate":["#tr_begin# I #tr_act# #tr_adj# #tr_noun#"],
 
-"tr_begin":["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,"],
-"tr_act":["look at", "think about", "love", "found", "want", "create", "help", "make"],
-"tr_adj":["little", "nice", "pretty", "fun", "tiny", "cool", "great", "cute", "beautiful", "inspiring", "happy"],
-"tr_noun":["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "#forestquest1#", "photos", "animations", "characters", "colors", "trees", "videos", "worlds"]
+
+	"strange1": ["you are on a tiny planet", "you are lost in space", "you are on a strange planet", "you are on a #tiny2a# #tiny1a# planet", "you are a #tiny2a# #story1a# on a tiny planet", "you discover #tiny1b.a# planet"],
+	"strange2": ["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here", "your best friend is #tiny2a.a# #story1a#", "you meet a friend", "you find a tiny door", "you sit down and open your book", "you explore an old ruin", "you feel at peace", "you feel free", "you #tr_act# #tr_adj# #tr_noun#"],
+
+	"itswho": ["✨✨✨", "🌟", "💕💕💕"],
+
+	"tr_generate": ["#tr_begin# I #tr_act# #tr_adj# #tr_noun#"],
+
+	"tr_begin": ["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,"],
+	"tr_act": ["look at", "think about", "love", "found", "want", "create", "help", "make"],
+	"tr_adj": ["little", "nice", "pretty", "fun", "tiny", "cool", "great", "cute", "beautiful", "inspiring", "happy"],
+	"tr_noun": ["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "#forestquest1#", "photos", "animations", "characters", "colors", "trees", "videos", "worlds"]
 }
