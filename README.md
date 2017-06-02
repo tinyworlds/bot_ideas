@@ -21,5 +21,5 @@ Experiments include:
 
 ## Tips
 - On Twitter, certain unicode symbols turn into emojis. You can use Lists such as http://emojipedia.org/twitter/ to find the unicode symbol for an emoji. You then can copy&paste them in CheapBotsDoneQuick (they will turn into Emojis after being tweeted).
-- You can use http://www.txtn.us/tiny-text to create tiny text! c:
+- ~~You can use http://www.txtn.us/tiny-text to create tiny text! c:~~ Tool broken :(
 - http://cheapbotsdonequick.com/ is easy enough to use, to have a playful, toy-like approach to bot making. This can yield very interesting results.
