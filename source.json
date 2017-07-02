@@ -37,14 +37,18 @@
 
 
 	"strange1": ["you are on a tiny planet", "you are lost in space", "you are on a strange planet", "you are on a #tiny2a# #tiny1a# planet", "you are a #tiny2a# #story1a# on a tiny planet", "you discover #tiny1b.a# planet"],
-	"strange2": ["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here", "your best friend is #tiny2a.a# #story1a#", "you meet a friend", "you find a tiny door", "you sit down and open your book", "you explore an old ruin", "you feel at peace", "you feel free", "you #tr_act# #tr_adj# #tr_noun#"],
+	"strange2": ["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "a #story1a# lives in your #tiny2a# #tiny1b#", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here", "your best friend is #tiny2a.a# #story1a#", "you meet a friend", "you find a tiny door", "you sit down and open your book", "you explore an old ruin", "you feel at peace", "you feel free", "you #tr_act# #tr_adj# #tr_noun#", "your #story1a# friend is #tr_adj#"],
 
-	"itswho": ["✨✨✨", "🌟", "💕💕💕"],
+	"love":["💙", "hehe I'm happy", "I'm glad you do"],
+	"its":["that's what I had in mind, too ^_^", "hehe yes", "totally"],
+	"arebot":["of course I am", "sure I am", "yes, my name is bot_ideas"],
+	"goodiea":["thx c:", "do it", "yesss, do it"],
 
-	"tr_generate": ["#tr_begin# I #tr_act# #tr_adj# #tr_noun#"],
+
+	"tr_generate": ["#tr_begin# I #tr_act# #tr_adj# #tr_noun#", "#tr_begin# #tr_adj# #tr_noun# are #tr_adj#", "let's #tr_act# #tr_adj# #tr_noun# on a #tiny2a# #tiny1a# planet", "remember to #tr_act# #tr_adj# #tr_noun#"],
 
 	"tr_begin": ["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,"],
-	"tr_act": ["look at", "think about", "love", "found", "want", "create", "help", "make"],
-	"tr_adj": ["little", "nice", "pretty", "fun", "tiny", "cool", "great", "cute", "beautiful", "inspiring", "happy"],
-	"tr_noun": ["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "#forestquest1#", "photos", "animations", "characters", "colors", "trees", "videos", "worlds"]
+	"tr_act": ["look at", "think about", "love", "found", "want", "create", "help", "make", "share"],
+	"tr_adj": ["little", "nice", "pretty", "fun", "tiny", "cool", "great", "cute", "beautiful", "inspiring", "happy", "real", "small", "special"],
+	"tr_noun": ["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "#forestquest1#", "photos", "animations", "characters", "colors", "trees", "videos", "worlds", "adventures", "planets"]
 }
