@@ -10,7 +10,7 @@
 
 
 "MODULES":"",
-    "magical_animal":        ["You meet #adjective.a# #var_forestanimal#. \n #heshe_forestanimal.capitalize# is #animalneed#."],
+    "magical_animal":        ["You meet #good.a# #var_forestanimal#. \n #heshe_forestanimal.capitalize# is #animalneed#."],
     "tiny_garden":           ["#B##B##B##B##B#\n#B##A##A##A##B#\n#B##A##C##A##B#\n#B##A##A##A##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtiny#"],
 
 
@@ -20,17 +20,20 @@
 	"heshe":                ["he", "she", "it"],
 	"heshe_forestanimal":   ["#var_gender#", "the #var_forestanimal#"],
 
-    "A":                   ["#var_garden1#", "#var_garden2#"],
-    "B":                   ["#var_border#"],
-    "C":                   ["#emoji_garden_middle#"],         
+    "A":                    ["#var_garden1#", "#var_garden2#"],
+    "B":                    ["#var_border#"],
+    "C":                    ["#emoji_garden_middle#"],         
 
 
 
 "ADJECTIVES":"",
 
-	"adjective":            ["#magical#", "#cute#"],
+	"good":                 ["#magical#", "#cute#", "#nice#", "#pretty#"],
 	"magical":              ["enchanted", "glowing", "bewitched", "ghostly", "haunted", "occult"],
-	"cute":                 ["fuzzy", "soft", "tiny", "round", "big-eyed", "pretty"],
+	"cute":                 ["fuzzy", "soft", "tiny", "round", "big-eyed", "#pretty#"],
+	"nice":                 ["wonderful", "lovely", "awesome", "amazing", "nice"],
+    "pretty":               ["gorgeous", "beautiful", "pretty", "stunning"],
+    "friendly":             ["friendly", "loving", "caring"],
 
 "EMOJI":"",
     
@@ -96,7 +99,7 @@
 
 "NARRATIVE":"",
 
-	"animalneed":           ["looking for a friend", "looking for someone to have a nice day with", "looking for resources to build #house.a#", "looking for a nice place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting acorns", "playing in the leaves", "building a treehouse in the old #foresttree#", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating sweet berrries", "eating #food#", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made of #forestplant.s#", "building a spaceship to go exploring", "playing with a ball they found", "building #house.a# that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food (it's #food#)", "preparing a big meal for the other animals", "preparing #food# for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a lovely letter to their friend", "pressing #forestplant.s# and #forestplant.s#", "learning how to be a better gardener", "caring for their beloved veggies and #flower.s#", "watering the #flower.s#", "sleeping in a tent tonight", "chasing #forestcritter.s#", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good #meal#", "sitting by a cozy fire", "sitting by the campfire", "dreaming about happy things", "learning how to play guitar"],
+	"animalneed":           ["looking for #friendly.a# friend", "looking for someone to have #good.a# day with", "looking for resources to build #house.a#", "looking for #good.a# place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting #good# acorns", "playing in the leaves", "building a treehouse in the old #foresttree#", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating #food#", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made out of #forestplant.s#", "building a spaceship to go exploring", "playing with a ball they found", "building #house.a# that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food (it's #food#)", "preparing a big meal for the other animals", "preparing #food# for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a #good# letter to their friend", "pressing #forestplant.s# and #forestplant.s#", "learning how to be a better gardener", "caring for their beloved veggies and #flower.s#", "watering the #flower.s#", "sleeping in a tent tonight", "chasing #forestcritter.s#", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good #meal#", "sitting by a cozy fire", "sitting by the campfire", "dreaming about happy things", "learning how to play guitar"],
 
 "LABELS":"",
 	"yourtiny":             ["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
