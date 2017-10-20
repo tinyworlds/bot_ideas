@@ -49,7 +49,7 @@
     "emoji_house":          ["🏕️", "🏠", "🏡", "⛩️"],
 
 
-"FOREST STUFF":"",
+"FOREST ANIMALS":"",
     
 	"forestanimal":         ["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#"],
 	"forestbird":           ["blackbird", "raven", "owl ", "blue tit", "black tit"],
@@ -58,13 +58,48 @@
 	"forestcritter":        ["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet", "butterfly", "centipede", "caterpillar"],
 
 
+"FOREST_PLANTS":"",
+
+	"foresttree":           ["beech", "pine", "acorn", "birch", "oak"],
+
+    "forestflora":          ["#forestplant_leafy#", "#forestplant_moss#", "#flower#", "#forestfungi#"],
+    "forestplant":         ["#forestplant_leafy#", "#flower#"],
+
+	"forestplant_leafy":    ["fern", "clover"],
+    "forestplant_moss":     ["moss", "lichen"],
+    "flower":               ["flower", "dandelion", "rose", "daisy", "lavender", "camomile", "wild garlic"],
+
+    "forestfungi":          ["amanita", "mushroom", "tree mushroom", "fungi"],
+
+
+"ARCHITECTURE":"",
+    
+    "refuge":               ["refuge", "home", "retreat", "shelter"],
+    "house":                ["#refuge#", "cabin", "tower", "treehouse", "lake house"],
+
+
+"FOOD STUFF":"",
+
+    "food":                 ["#meal#", "#smoothie#", "#cookie#"],
+	"meal":                 ["#vegetable# #meal_type#"],
+	"smoothie":             ["#fruit# smoothie", "#fruit# and #fruit# smoothie"],
+	"cookie":               ["#fruit# cookies", "#nut# cookies"],
+
+	"food_adjective":       ["tasty", "crispy", "delicious", "aromatic", "flavorful", "special"],
+    "meal_type":            ["soufflé", "casserole", "puree", "stew", "soup", "salad", "sautée", "baguette", "sandwich", "bagel"],
+
+	"vegetable":            ["onion", "garlic", "tomatoe", "carot", "potatoe", "mushroom", "zucchini", "pumpkin", "cabbage", "bean", "corn", "spinach", "cucumber", "broccoli", "asparagus", "beet", "brussel sprout", "cauliflower", "kale", "squash", "turnip", "celery", "olive", "eggplant", "artichoke", "pea"],
+	"fruit":                ["banana", "cherry", "strawberry", "orange", "grape", "apple", "peach", "carrot", "lemon", "pear", "blueberry", "cranberry"],
+	"nut":                  ["almond", "walnut", "hazelnut", "cashew", "pistachio", "macadamia", "peanut"],
+
+
 
 "NARRATIVE":"",
 
-	"animalneed":           ["looking for a friend", "looking for someone to have a nice day with", "looking for resources to build a home", "looking for a nice place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting acorns", "playing in the leaves", "building a treehouse", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating sweet berrries", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made of moss", "building a spaceship to go exploring", "playing with a ball they found", "building a treehouse that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food", "preparing a big meal for the other animals", "preparing everything for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a lovely letter to their friend", "pressing flowers and leaves", "learning how to be a better gardener", "caring for their beloved veggies and flowers", "watering the flowers", "sleeping in a tent tonight", "chasing butterflies", "chasing fireflies", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good cake", "sitting by a cozy fire", "dreaming about happy things"],
+	"animalneed":           ["looking for a friend", "looking for someone to have a nice day with", "looking for resources to build #house.a#", "looking for a nice place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting acorns", "playing in the leaves", "building a treehouse in the old #foresttree#", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating sweet berrries", "eating #food#", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made of #forestplant.s#", "building a spaceship to go exploring", "playing with a ball they found", "building #house.a# that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food (it's #food#)", "preparing a big meal for the other animals", "preparing #food# for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a lovely letter to their friend", "pressing #forestplant.s# and #forestplant.s#", "learning how to be a better gardener", "caring for their beloved veggies and #flower.s#", "watering the #flower.s#", "sleeping in a tent tonight", "chasing #forestcritter.s#", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good #meal#", "sitting by a cozy fire", "sitting by the campfire", "dreaming about happy things", "learning how to play guitar"],
 
 "LABELS":"",
-	"yourtiny":["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
+	"yourtiny":             ["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
 
 
 "THE END":""
