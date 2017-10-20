@@ -1,74 +1,71 @@
 {
-	"setvariables": ["[gardenanimal:#animals1#][gardenborder:#gardenborder1#]"],
-
-	"origin": ["#[#setvariables#]flowers#", "hmmmm\n\n#tiny2a# #tiny1a#", "look at me!\n\nI'm a #tiny2a# #story1a#", "today I made friends with #tiny2a.a# #story1a#\n\n#friendthings#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#[#setvariables#]garden1#", "#forest1#", "#ocean#", "A #story1a# #story1b# tells you:\n\nFind #forestquest1# and #forestquest2#.\n", "A #story1a# #story1b# tells you:\n\n#forestquest3#.\n", "#strange1#\n#strange2#", "#tr_generate#", "You meet #ADJECTIVE.a# #ANIMAL#. \n #heshe.capitalize# is #animalneed#."],
-
-	"flowers1": ["🌹", "🌷", "🌺", "🌻", "🌼"],
-	"plants1": ["🌱", "🌾", "🌿", "🍃"],
-	"animals1": ["🐇", "🐑", "🐓", "🐥", "🐘", "🐖", "🐌", "🐛", "🐞", "🐀", "🐐", "🐺", "🦊"],
-	"gardenborder1": ["🌲", "🌳", "🐚", "🍞", "❤️", "✨", "💚", "⭐️", "🌻", "🍀", "🍁", "🌰", "🐁", "🐂", "🌞", "🍊", "🍪", "🎋", "🎍", "💫", "🎈", "🎐"],
-	"trees": ["🌲", "🌳"],
-
-	"garden1": ["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##plants1##gardenanimal##plants1##gardenborder#\n#gardenborder##plants1##plants1##plants1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʸᵒᵘʳ ᵗᶦᶰʸ ᵍᵃʳᵈᵉᶰ"],
-	"forest1": ["#plants1##plants1##plants1##plants1##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##trees##trees##trees##plants1#\n#plants1##plants1##plants1##plants1##plants1#\nᵉˣᵖᶫᵒʳᵉ ᵗʰᵉ ᵗᶦᶰʸ ᶠᵒʳᵉˢᵗ"],
-
-	"flowers": ["#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##flowers1##flowers1##flowers1##gardenborder#\n#gardenborder##gardenborder##gardenborder##gardenborder##gardenborder#\nʰᵉʳᵉ ᵃʳᵉ ˢᵒᵐᵉ ᶠᶫᵒʷᵉʳˢ ᶠᵒʳ ʸᵒᵘ"],
-
-	"ocean": ["🌊🌊🌊🌊🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊#oceanchance##oceanthings##oceanchance#🌊\n🌊#oceanchance##oceanchance##oceanchance#🌊\n🌊🌊🌊🌊🌊\nᵗʰᵉ ᵒᶜᵉᵃᶰ ᶦˢ ᵇᵉᵃᵘᵗᶦᶠᵘᶫ ᵗᵒᵈᵃʸ"],
-	"oceanthings": ["#animals1#", "🐳", "🐟", "🐬", "🐠", "🐡", "🏝", "🏖", "🌄", "⛵", "🎍", "🏄"],
-	"oceanchance": ["🌊", "🌀", "💧", "💦", "💙"],
+"ABOUT: BOT IDEAS: ART BOT EXPERIMENTS BY @TINYRUIN":"",
+"LICENSED AS CC0":"",
+"------------------------------------------------------------------------------------------------------------------------------------":"",
 
 
-	"tiny1a": ["mushroom🍄", "walnut", "snail", "hazelnut", "fairy", "acorn", "autumn", "forest🍃", "#ANIMAL#"],
-	"tiny1b": ["house", "home", "hut", "tower", "refuge", "planet", "world"],
-	"tiny2a": ["tiny", "cute", "small", "pretty", "rainbow", "glowing", "colorful", "#tr_adj#", "funny", "#magical#", "#cute#"],
+"IMPORTANT STUFF":"",	
+    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#]"],
+    "origin":                ["#[#setvariables#]magical_animal#", "#[#setvariables#]tiny_garden#"],
 
 
-	"story1a": ["bear🐻", "cat🐱", "fairy", "deer 🦌", "bunny🐰", "snail🐌", "bird", "blackbird", "raven", "frog 🐸", "fox 🦊", "squirrel 🐿", "duck 🦆", "owl 🦉", "#ANIMAL#"],
-	"story1b": ["on adventures", "in the city", "making art", "with a tophat", "in the bush", "in the cave", "in the woods", "in the forest", "in the water", "collecting flowers", "in a treecave", "that is #animalneed#", "who loves #tr_adj# #tr_noun#"],
-	"friendthings": ["#heshe# loved #forestquest1# as much as I do!", "#heshe# loved #tr_noun# as much as I do!", "#heshe# showed me their #tiny2a# #tiny1b#!", "we collected all #forestquest1# we could find!", "we talked about creating our own #tiny1b#!", "we talked about creating our #tr_adj# #tr_noun#!", "we had lunch on a tree!", "we took a nap in my #tiny1b#", "we ate some cookies together!", "we drank a good cup of tea!", "we made a delicious mushroom soup!", "we cuddled together!", "we watched the fireflies dance!", "we lied down in a bed of moss!", "we made little flower crowns together!", "we were #animalneed#!"],
-
-	"heshe": ["he", "she"],
-
-	"forestquest1":["#forestquest1b#", "#tiny2a# #forestquest1b#"],
-	"forestquest1b": ["acorns", "pinecones", "pieces of bark", "little rocks", "twigs and branches 🌿", "snail shells 🐚", "leaves 🍃", "mud clumps", "berries 🍇", "flowers 🌺", "colorful rocks", "pebbles", "gemstones", "colorful leaves", "mushrooms", "raspberries", "strawberries", "snow balls", "icicles", ""],
-	"forestquest2": ["throw them as far as you can", "use them to build an occult circle", "gift them to a friend", "take them home with you", "observe them closely", "collect them in a glass jar", "test if they swim", "feel their texture", "smell on them", "leave them where they are", "describe them in 3 words", "describe them with one word", "hide them in a secret place, only you know", "bring them to your treehouse", "draw on them", "use them to decorate your treehouse", "use them to make a terrarium", "use them to create a piece of art", "use your magic to bring them to live", "test if they burn (but be careful)", "make them part of a little game", "do some cool trickshots with them", "think about what makes them special", "write a poem about them"],
-	"forestquest3": ["Build a #tiny1b# for #tiny2a# animals"],
+"MODULES":"",
+    "magical_animal":        ["You meet #adjective.a# #var_forestanimal#. \n #heshe_forestanimal.capitalize# is #animalneed#."],
+    "tiny_garden":           ["#B##B##B##B##B#\n#B##A##A##A##B#\n#B##A##C##A##B#\n#B##A##A##A##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtiny#"],
 
 
 
-	"strange1": ["you are on a tiny planet", "you are lost in space", "you are on a strange planet", "you are on a #tiny2a# #tiny1a# planet", "you are a #tiny2a# #story1a# on a tiny planet", "you discover #tiny1b.a# planet"],
-	"strange2": ["the sun is rising", "your spaceship is very beautiful", "what a beautiful day", "your space garden is lovely", "a #story1a# lives in your #tiny2a# #tiny1b#", "your #tiny1b# looks beautiful", "you think a bit about your old spaceship", "you look up to the stars", "you watch the sun set", "you decide to build yourself a #tiny2a# #tiny1b#", "you touch the soft moss on the ground", "you discover an ancient civilization", "the stars are beautiful", "the surface is covered in a fine mist", "something is sparkling in the distance", "you feel at home here", "your best friend is #tiny2a.a# #story1a#", "you meet a friend", "you find a tiny door", "you sit down and open your book", "you explore an old ruin", "you feel at peace", "you feel free", "you #tr_act# #tr_adj# #tr_noun#", "your #story1a# friend is #tr_adj#", "this place seems #tiny2a#", "you are #animalneed#"],
+"HELPERS/UTILITY":"",
 
-	"love":["💙", "hehe I'm happy", "I'm glad you do"],
-	"its":["that's what I had in mind, too ^_^", "hehe yes", "totally"],
-	"arebot":["of course I am", "sure I am", "yes, my name is bot_ideas"],
-	"goodiea":["thx c:", "do it", "yesss, do it"],
-	"socute":["#tr_begin# #tr_adj#!", "oh that's my friend! #friendthings#"],
+	"heshe":                ["he", "she", "it"],
+	"heshe_forestanimal":   ["#var_gender#", "the #var_forestanimal#"],
 
-	"cutepicsbot_p1":["cute", "gimme", "show", "send"],
-	"cutepicsbot_p2":["animal", "photo"],
-	"tocutepicsbot":[".@cutepicsbot #tr_begin# #cutepicsbot_p1# #cutepicsbot_p2.s#", ".@cutepicsbot #tr_begin# #cutepicsbot_p1# #tr_adj# #cutepicsbot_p2.s#"],
+    "A":                   ["#var_garden1#", "#var_garden2#"],
+    "B":                   ["#var_border#"],
+    "C":                   ["#emoji_garden_middle#"],         
 
 
-	"tr_generate": ["#tr_begin# I #tr_act# #tr_adj# #tr_noun#", "#tr_begin# #tr_adj# #tr_noun# are #tr_adj#", "let's #tr_act# #tr_adj# #tr_noun# on a #tiny2a# #tiny1a# planet", "remember to #tr_act# #tr_adj# #tr_noun#"],
 
-	"tr_begin": ["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,", "hey!", "here", "now", "well", "oooh", "ooh", "PLEASE"],
-	"tr_act": ["look at", "think about", "love", "found", "want", "create", "help", "make", "share"],
-	"tr_adj": ["little", "nice", "pretty", "fun", "tiny", "cool", "great", "cute", "beautiful", "inspiring", "happy", "real", "small", "special", "sweet", "lovely"],
-	"tr_noun": ["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "#forestquest1#", "photos", "animations", "characters", "colors", "trees", "videos", "worlds", "adventures", "planets", "terrariums", "snails", "teas", "coffees", "places", "homes"],
+"ADJECTIVES":"",
 
-		"ADJECTIVE":["#magical#", "#cute#"],
-	"magical":["enchanted", "glowing", "bewitched", "ghostly", "haunted", "occult"],
-	"cute":["fuzzy", "soft", "tiny", "round", "big-eyed", "pretty"],
+	"adjective":            ["#magical#", "#cute#"],
+	"magical":              ["enchanted", "glowing", "bewitched", "ghostly", "haunted", "occult"],
+	"cute":                 ["fuzzy", "soft", "tiny", "round", "big-eyed", "pretty"],
+
+"EMOJI":"",
+    
+    "emoji_flower":         ["🌹", "🌷", "🌺", "🌻", "🌼"],
+	"emoji_weed":           ["🌱", "🌾", "🌿", "🍃"],
+	"emoji_tree":           ["🌲", "🌳"],
+
+    "emoji_heart":          ["❤️", "", "❣️", "💕", "💞", "💓", "💖", "💛", "💚", "💙", "💜", "🖤"],
+    "emoji_fancy":          ["💫", "⭐", "🌟", "✨", "⚡", "🌈", "☀️", "🌠", "💎", "🎀", "🎊", "🎏", "🎉", "🏮"],
+
+    "emoji_garden_border":  ["#emoji_flower#", "#emoji_weed#", "#emoji_tree#", "#emoji_heart#", "#emoji_fancy#"],
+    "emoji_garden":         ["#emoji_flower#", "#emoji_weed#", "#emoji_tree#"],
+    "emoji_garden_middle":  ["#emoji_animal#", "#emoji_house#"],
+
+    "emoji_animal":         ["🐭", "🐰", "🦊", "🐻", "🐸", "🐦", "🦆", "🦉", "🦇", "🐺", "🐗", "🐝", "🐛", "🦋", "🐌", "🐞", "🐜", "🕷️", "🦌", "🐇", "🐁", "🐿️"],
+    "emoji_house":          ["🏕️", "🏠", "🏡", "⛩️"],
 
 
-	"ANIMAL": ["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#", "#story1a#"],
-	"forestbird": ["blackbird", "raven", "owl", "blue tit", "black tit"],
-	"forestmammal": ["bear", "deer", "bunny", "fox", "squirrel", "hedgehog"],
-	"forestamphibian": ["toad", "frog"],
-	"forestcritter": ["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet"],
+"FOREST STUFF":"",
+    
+	"forestanimal":         ["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#"],
+	"forestbird":           ["blackbird", "raven", "owl ", "blue tit", "black tit"],
+	"forestmammal":         ["bear", "deer", "bunny", "fox", "squirrel", "hedgehog", "bat"],
+	"forestamphibian":      ["toad", "frog"],
+	"forestcritter":        ["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet", "butterfly", "centipede", "caterpillar"],
 
-	"heshe":["he", "she", "it"],
-	"animalneed":["looking for a friend", "looking for someone to have a nice day with", "looking for resources to build a home", "looking for a nice place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting acorns", "playing in the leaves", "building a treehouse", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating sweet berrries", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made of moss", "building a spaceship to go exploring", "playing with a ball they found", "building a treehouse that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food", "preparing a big meal for the other animals", "preparing everything for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a lovely letter to their friend", "pressing flowers and leaves", "learning how to be a better gardener", "caring for their beloved veggies and flowers", "watering the flowers", "sleeping in a tent tonight", "chasing butterflies", "chasing fireflies", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good cake", "sitting by a cozy fire", "dreaming about happy things"]
+
+
+"NARRATIVE":"",
+
+	"animalneed":           ["looking for a friend", "looking for someone to have a nice day with", "looking for resources to build a home", "looking for a nice place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting acorns", "playing in the leaves", "building a treehouse", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating sweet berrries", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made of moss", "building a spaceship to go exploring", "playing with a ball they found", "building a treehouse that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food", "preparing a big meal for the other animals", "preparing everything for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a lovely letter to their friend", "pressing flowers and leaves", "learning how to be a better gardener", "caring for their beloved veggies and flowers", "watering the flowers", "sleeping in a tent tonight", "chasing butterflies", "chasing fireflies", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good cake", "sitting by a cozy fire", "dreaming about happy things"],
+
+"LABELS":"",
+	"yourtiny":["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
+
+
+"THE END":""
 }
