@@ -124,7 +124,144 @@
 
     "magical_end":              ["#narrative_question#", "#narrative_quote#"],
     "narrative_question":       ["Do you want to join?", "How can you help?", "Do you like the #var_forestanimal#?", "Do you think #var_gender#'ll like #food#?", "Do you think #var_gender#'ll like #flower.s#?", "Can you smell the #flower.s#?", "Isn't this #good#?", "Do you want to share your #cookie# with the #var_forestanimal#?", "Do you think #var_gender#'ll like #fruit.s#?", "What does that say about the #var_forestanimal#?", "Maybe you can introduce your #forestanimal# friend to them?", "How do you rate this moment on a scale of 1 to #cookie#?", "Do you want to talk to the #var_forestanimal#?"],
-    "narrative_quote":          ["\"Can you help me climb the #forestree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? Mr. #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help Mr. #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I got really eat #good.a# #food# now!\""],
+    "narrative_quote":          ["\"Can you help me climb the #forestree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? Mr. #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help Mr. #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I got really eat #good.a# #food# now!\"", "{
+"ABOUT: BOT IDEAS: ART BOT EXPERIMENTS BY @TINYRUIN":"",
+"SEE THIS BOT LIVE AT https://twitter.com/bot_ideas": "",
+"LICENSED AS CC0":"",
+"------------------------------------------------------------------------------------------------------------------------------------":"",
+
+
+"IMPORTANT STUFF":"",	
+    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#][var_forest1:#emoji_flora#][var_forest2:#emoji_flora#][var_border_forest:#emoji_tree#][var_border_star:#emoji_star#][var_planet1:#emoji_planet#][var_planet2:#emoji_planet#]"],
+    "origin":                ["#[#setvariables#]magical_animal#", "#[#setvariables#]tiny_garden#"],
+
+
+"MODULES":"",
+    "magical_animal":        ["You meet #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#.\n#magical_end#"],
+    "tiny_garden":           ["#B##B##B##B##B#\n#B##A##A##A##B#\n#B##A##C##A##B#\n#B##A##A##A##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinygarden#"],
+    "tiny_forest":           ["#E##E##E##E##E#\n#E##D##D##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
+    "tiny_stars":            ["#G##G##G##G##G#\n#G##D##D##D##G#\n#G##D##C##D##G#\n#G##D##D##D##G#\n#G##G##G##G##G#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyplanet#"],
+
+
+"HELPERS/UTILITY":"",
+
+	"heshe":                ["he", "she", "it"],
+	"heshe_forestanimal":   ["#var_gender#", "the #var_forestanimal#"],
+
+    "A":                    ["#var_garden1#", "#var_garden2#"],
+    "B":                    ["#var_border#"],
+    "C":                    ["#emoji_garden_middle#"],
+
+    "D":                    ["#var_forest1#", "#var_forest2#"],
+    "E":                    ["#var_border_forest#"],
+
+    "F":                    ["#var_planet1#", "#var_planet2#"],
+    "G":                    ["#var_border_star#"],
+    "H":                    ["#emoji_space#"],
+
+
+
+"ADJECTIVES":"",
+
+	"good":                 ["#magical#", "#cute#", "#nice#", "#pretty#"],
+	"magical":              ["enchanted", "glowing", "bewitched", "ghostly", "haunted", "occult"],
+	"cute":                 ["fuzzy", "soft", "tiny", "round", "big-eyed", "#pretty#"],
+	"nice":                 ["wonderful", "lovely", "awesome", "amazing", "nice"],
+    "pretty":               ["gorgeous", "beautiful", "pretty", "stunning"],
+    "friendly":             ["friendly", "loving", "caring"],
+
+"EMOJI":"",
+    
+    "emoji_flora":          ["#emoji_weed#", "#emoji_tree#"],
+    "emoji_flower":         ["🌹", "🌷", "🌺", "🌻", "🌼"],
+	"emoji_weed":           ["🌱", "🌾", "🌿", "🍃"],
+	"emoji_tree":           ["🌲", "🌳"],
+
+    "emoji_heart":          ["❤️", "", "❣️", "💕", "💞", "💓", "💖", "💛", "💚", "💙", "💜", "🖤"],
+    "emoji_fancy":          ["💫", "⚡", "🌈", "☀️", "💎", "🎀", "🎊", "🎏", "🎉", "🏮"],
+    "emoji_magical":        ["👁️", "💍", "👑", "☄️", "🌪️"],
+
+    "emoji_star":           ["⭐", "🌟", "✨", "💫", "🌠", "☄️", "🎆", "🎇"],
+    "emoji_space":          ["🌚", "🌝", "🌎", "🌍", "🌏", "🚀", "🌠"],
+    "emoji_planet":         ["#emoji_garden#"],
+    
+
+    "emoji_garden_border":  ["#emoji_flower#", "#emoji_weed#", "#emoji_tree#", "#emoji_heart#", "#emoji_fancy#"],
+    "emoji_garden":         ["#emoji_flower#", "#emoji_weed#", "#emoji_tree#"],
+    "emoji_garden_middle":  ["#emoji_animal#", "#emoji_house#"],
+
+    "emoji_forest_middle":  ["#emoji_animal#", "#emoji_magical#"],
+
+
+    "emoji_animal":         ["🐭", "🐰", "🦊", "🐻", "🐸", "🐦", "🦆", "🦉", "🦇", "🐺", "🐗", "🐝", "🐛", "🦋", "🐌", "🐞", "🐜", "🕷️", "🦌", "🐇", "🐁", "🐿️"],
+    "emoji_house":          ["🏕️", "🏠", "🏡", "⛩️"],
+	
+
+
+"FOREST ANIMALS":"",
+    
+	"forestanimal":         ["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#"],
+	"forestbird":           ["blackbird", "raven", "owl ", "blue tit", "black tit"],
+	"forestmammal":         ["bear", "deer", "bunny", "fox", "squirrel", "hedgehog", "bat"],
+	"forestamphibian":      ["toad", "frog"],
+	"forestcritter":        ["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet", "butterfly", "centipede", "caterpillar"],
+
+
+"FOREST_PLANTS":"",
+
+	"foresttree":           ["beech", "pine", "acorn", "birch", "oak"],
+
+    "forestflora":          ["#forestplant_leafy#", "#forestplant_moss#", "#flower#", "#forestfungi#"],
+    "forestplant":         ["#forestplant_leafy#", "#flower#"],
+
+	"forestplant_leafy":    ["fern", "clover"],
+    "forestplant_moss":     ["moss", "lichen"],
+    "flower":               ["flower", "dandelion", "rose", "daisy", "lavender", "camomile", "wild garlic"],
+
+    "forestfungi":          ["amanita", "mushroom", "tree mushroom", "fungi"],
+
+
+"ARCHITECTURE":"",
+    
+    "refuge":               ["refuge", "home", "retreat", "shelter"],
+    "house":                ["#refuge#", "cabin", "tower", "treehouse", "lake house"],
+
+
+"FOOD STUFF":"",
+
+    "food":                 ["#meal#", "#smoothie#", "#cookie#"],
+	"meal":                 ["#vegetable# #meal_type#"],
+	"smoothie":             ["#fruit# smoothie", "#fruit# and #fruit# smoothie"],
+	"cookie":               ["#fruit# cookies", "#nut# cookies"],
+
+	"food_adjective":       ["tasty", "crispy", "delicious", "aromatic", "flavorful", "special"],
+    "meal_type":            ["soufflé", "casserole", "puree", "stew", "soup", "salad", "sautée", "baguette", "sandwich", "bagel"],
+
+	"vegetable":            ["onion", "garlic", "tomatoe", "carrot", "potatoe", "mushroom", "zucchini", "pumpkin", "cabbage", "bean", "corn", "spinach", "cucumber", "broccoli", "asparagus", "beet", "brussel sprout", "cauliflower", "kale", "squash", "turnip", "celery", "olive", "eggplant", "artichoke", "pea"],
+	"fruit":                ["banana", "cherry", "strawberry", "orange", "grape", "apple", "peach", "carrot", "lemon", "pear", "blueberry", "cranberry"],
+	"nut":                  ["almond", "walnut", "hazelnut", "cashew", "pistachio", "macadamia", "peanut"],
+
+
+
+"NARRATIVE":"",
+
+	"animalactivity":           ["looking for #friendly.a# friend", "looking for someone to have #good.a# day with", "looking for resources to build #house.a#", "looking for #good.a# place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting #good# acorns", "playing in the leaves", "building a treehouse in the old #foresttree#", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating #food#", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made out of #forestplant.s#", "building a spaceship to go exploring", "playing with a ball they found", "building #house.a# that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food (it's #food#)", "preparing a big meal for the other animals", "preparing #food# for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a #good# letter to their friend", "pressing #forestplant.s# and #forestplant.s# for their collection", "learning how to be a better gardener", "caring for their beloved veggies and #flower.s#", "watering the #flower.s#", "sleeping in a tent tonight", "chasing #forestcritter.s#", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good #meal#", "sitting by a cozy fire", "sitting by the campfire", "dreaming about happy things", "learning how to play guitar"],
+
+
+    "magical_end":              ["#narrative_question#", "#narrative_quote#"],
+    "narrative_question":       ["Do you want to join?", "How can you help?", "Do you like the #var_forestanimal#?", "Do you think #var_gender#'ll like #food#?", "Do you think #var_gender#'ll like #flower.s#?", "Can you smell the #flower.s#?", "Isn't this #good#?", "Do you want to share your #cookie# with the #var_forestanimal#?", "Do you think #var_gender#'ll like #fruit.s#?", "What does that say about the #var_forestanimal#?", "Maybe you can introduce your #forestanimal# friend to them?", "How do you rate this moment on a scale of 1 to #cookie#?", "Do you want to talk to the #var_forestanimal#?"],
+    "narrative_quote":          ["\"Can you help me climb the #forestree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? Mr. #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help Mr. #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I got really eat #good.a# #food# now!\"", "\"Have you seen my #magical# #vegetable#?\""],
+
+
+"LABELS":"",
+
+	"yourtinygarden":        ["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
+    "yourtinyforest":        ["ғᴏʀᴇsᴛ", "ᴇᴄᴏsʏsᴛᴇᴍ", "ᴊᴜɴɢʟᴇ", "ᴡᴏᴏᴅ", "ᴡᴏᴏᴅʟᴀɴᴅ", "ɢʀᴏᴠᴇ"],
+    "yourtinyplanet":        ["ᴘʟᴀɴᴇᴛ", "ʀᴇғᴜɢᴇ", "ʀᴇᴛʀᴇᴀᴛ", "ʜᴏᴍᴇ", "ᴡᴏʀʟᴅ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ"],
+
+
+"THE END":""
+}"],
 
 
 "LABELS":"",
