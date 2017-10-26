@@ -11,7 +11,7 @@
 
 
 "MODULES":"",
-    "magical_animal":        ["You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#.\n#magical_end#", "You #meet# #good.a# #var_forestanimal# that is #animalactivity#.\n#magical_end#"],
+    "magical_animal":        ["You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#.\n#magical_end#", "You #meet# #good.a# #var_forestanimal# that is #animalactivity#.\n#magical_end#","You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#."],
     "tiny_garden":           ["#B##B##B##B##B#\n#B##A##A##A##B#\n#B##A##C##A##B#\n#B##A##A##A##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinygarden#"],
     "tiny_forest":           ["#E##E##E##E##E#\n#E##D##D##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
     "tiny_stars":            ["#G##G##G##G##G#\n#G##D##D##D##G#\n#G##D##C##D##G#\n#G##D##D##D##G#\n#G##G##G##G##G#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyplanet#"],
@@ -33,8 +33,14 @@
     "G":                    ["#var_border_star#"],
     "H":                    ["#emoji_space#"],
 
+
+"VERBS":"",
     "meet":                 ["meet", "find", "cross paths with", "see", "approach"],
 
+
+"NOUNS":"",
+    "sir":                  ["king", "lord", "sir", "lady", "Mr", "Mrs"],
+    "friend":               ["friend", "mate", "loved one", "mutual", "buddy"],
 
 
 "ADJECTIVES":"",
@@ -45,6 +51,8 @@
 	"nice":                 ["wonderful", "lovely", "awesome", "amazing", "nice"],
     "pretty":               ["gorgeous", "beautiful", "pretty", "stunning"],
     "friendly":             ["friendly", "loving", "caring"],
+
+    "scared":               ["scared", "fearful", "anxious"],
 
 "EMOJI":"",
     
@@ -124,11 +132,9 @@
 	"animalactivity":           ["looking for #friendly.a# friend", "looking for someone to have #good.a# day with", "looking for resources to build #house.a#", "looking for #good.a# place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting #good# acorns", "playing in the leaves", "building a treehouse in the old #foresttree#", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating #food#", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made out of #forestplant.s#", "building a spaceship to go exploring", "playing with a ball they found", "building #house.a# that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food (it's #food#)", "preparing a big meal for the other animals", "preparing #food# for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a #good# letter to their friend", "pressing #forestplant.s# and #forestplant.s# for their collection", "learning how to be a better gardener", "caring for their beloved veggies and #flower.s#", "watering the #flower.s#", "sleeping in a tent tonight", "chasing #forestcritter.s#", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good #meal#", "sitting by a cozy fire", "sitting by the campfire", "dreaming about happy things", "learning how to play guitar"],
 
 
-    "magical_end":              ["#narrative_question#", "#narrative_quote#"],
+    "magical_end":              ["#narrative_quote#"],
 
-    "narrative_question":       ["Do you want to join?", "How can you help?", "Do you like the #var_forestanimal#?", "Do you think #var_gender#'ll like #food#?", "Do you think #var_gender#'ll like #flower.s#?", "Can you smell the #flower.s#?", "Isn't this #good#?", "Do you want to share your #cookie# with the #var_forestanimal#?", "Do you think #var_gender#'ll like #fruit.s#?", "What does that say about the #var_forestanimal#?", "Maybe you can introduce your #forestanimal# friend to them?", "How do you rate this moment on a scale of 1 to #cookie#?", "Do you want to talk to the #var_forestanimal#?", "But why is #var_gender# so #good#?"],
-
-    "narrative_quote":          ["\"Can you help me climb the #forestree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? Mr. #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help Mr. #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I got really eat #good.a# #food# now!\"", "\"Have you seen my #magical# #vegetable#?\""],
+    "narrative_quote":          ["\"Can you help me climb the #foresttree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? #sir.capitalize# #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help #sir# #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I really wanna eat #good# #food# now!\"", "\"Have you seen my #magical# #vegetable#?\"", "\"I'm so lost. Can you help me find back to my #house#?\"", "\"Me and #sir# #forestanimal.capitalize# are having #good.a# party later.\"", "\"Don't forget to tell your #friend.s# how much you love them!\"", "\"You should make some #cookie# for your #friend#!\"", "\"It's ok to be #scared# sometimes!\"", "\"Do you wanna be my #good# #friend#?\"", "\"You look #good# today #friend#!\"", "\"This is the place where the #forestanimal# lives.\"", "\"The #forestmammal# and #forestbird# are planning something.\""],
 
 
 
