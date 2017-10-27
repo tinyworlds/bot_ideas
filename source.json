@@ -6,15 +6,21 @@
 
 
 "IMPORTANT STUFF":"",	
-    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#][var_forest1:#emoji_flora#][var_forest2:#emoji_flora#][var_border_forest:#emoji_tree#][var_border_star:#emoji_star#][var_planet1:#emoji_planet#][var_planet2:#emoji_planet#]"],
-    "origin":                ["#[#setvariables#]magical_animal#", "#[#setvariables#]tiny_garden#"],
+    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#][var_forest1:#emoji_flora#][var_forest2:#emoji_flora#][var_border_forest:#emoji_tree#][var_border_star:#emoji_star#][var_planet1:#emoji_planet#][var_planet2:#emoji_planet#][var_border_spook:#emoji_spooky#][var_spook1:#emoji_spooky#][var_spook2:#emoji_spooky#]"],
+    "origin":                ["#[#setvariables#]magical_animal#", "#[#setvariables#]tiny_spook#"],
 
 
 "MODULES":"",
     "magical_animal":        ["You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#.\n#magical_end#", "You #meet# #good.a# #var_forestanimal# that is #animalactivity#.\n#magical_end#","You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#."],
-    "tiny_garden":           ["#B##B##B##B##B#\n#B##A##A##A##B#\n#B##A##C##A##B#\n#B##A##A##A##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinygarden#"],
+
+    "tiny_emoji":            ["#tiny_refuge#", "#tiny_forest#", "#tiny_stars#", "#tiny_island#"],
+
+    "tiny_refuge":           ["#B##B##B##B##B#\n#B##A##A##A##B#\n#B##A##C##A##B#\n#B##A##A##A##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyrefuge#"],
     "tiny_forest":           ["#E##E##E##E##E#\n#E##D##D##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
     "tiny_stars":            ["#G##G##G##G##G#\n#G##D##D##D##G#\n#G##D##C##D##G#\n#G##D##D##D##G#\n#G##G##G##G##G#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyplanet#"],
+    "tiny_island":           ["#I##I##I##I##I#\n#I##A##A##A##I#\n#I##A##C##A##I#\n#I##A##A##A##I#\n#I##I##I##I##I#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyrefuge#"],
+
+    "tiny_spook":            ["#L##L##L##L##L#\n#L##K##K##K##L#\n#L##K##M##K##L#\n#L##K##K##K##L#\n#L##L##L##L##L#\nʏᴏᴜʀ #yourtinyspook1# #yourtinyspook2#"],
 
 
 "HELPERS/UTILITY":"",
@@ -32,6 +38,12 @@
     "F":                    ["#var_planet1#", "#var_planet2#"],
     "G":                    ["#var_border_star#"],
     "H":                    ["#emoji_space#"],
+
+    "I":                    ["🌊"],
+
+    "K":                    ["#var_spook1#", "#var_spook2#"],
+    "L":                    ["#var_border_spook#"],
+    "M":                    ["#emoji_extraspook#"],
 
 
 "VERBS":"",
@@ -79,13 +91,16 @@
 
     "emoji_animal":         ["🐭", "🐰", "🦊", "🐻", "🐸", "🐦", "🦆", "🦉", "🦇", "🐺", "🐗", "🐝", "🐛", "🦋", "🐌", "🐞", "🐜", "🕷️", "🦌", "🐇", "🐁", "🐿️"],
     "emoji_house":          ["🏕️", "🏠", "🏡", "⛩️"],
+
+    "emoji_spooky":         ["🎃", "🤡", "👺", "👹", "😈", "💀", "☠️", "👻", "👁️", "👀", "🕷️", "🗡️", "🔪", "👁‍", "🗨", "🏴‍", "☠️"],
+    "emoji_extraspook":     ["🎨", "🎤", "👄", "👅", "👨‍", "🍳", "👩‍", "🎓", "👩‍", "🏫", "👩‍", "⚖️", "🕵️", "🎅", "🧙‍", "♀️", "💃", "👔", "👚", "👕", "👙", "👗", "💋", "👢", "🎓", "👓", "🌧️", "⛈️", "🌨️", "☃️", "🌪️", "🍷", "🍻", "🚋", "🚕", "🚦", "⏰", "📸", "💰", "💳", "💊", "💉", "📆", "📝", "🔇", "🔔", "🕔"],
 	
 
 
 "FOREST ANIMALS":"",
     
 	"forestanimal":         ["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#"],
-	"forestbird":           ["blackbird", "raven", "owl ", "blue tit", "black tit"],
+	"forestbird":           ["blackbird", "raven", "owl ", "blue tit", "black tit", "robin"],
 	"forestmammal":         ["bear", "deer", "bunny", "fox", "squirrel", "hedgehog", "bat"],
 	"forestamphibian":      ["toad", "frog"],
 	"forestcritter":        ["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet", "butterfly", "centipede", "caterpillar"],
@@ -134,15 +149,26 @@
 
     "magical_end":              ["#narrative_quote#"],
 
-    "narrative_quote":          ["\"Can you help me climb the #foresttree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? #sir.capitalize# #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help #sir# #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I really wanna eat #good# #food# now!\"", "\"Have you seen my #magical# #vegetable#?\"", "\"I'm so lost. Can you help me find back to my #house#?\"", "\"Me and #sir# #forestanimal.capitalize# are having #good.a# party later.\"", "\"Don't forget to tell your #friend.s# how much you love them!\"", "\"You should make some #cookie# for your #friend#!\"", "\"It's ok to be #scared# sometimes!\"", "\"Do you wanna be my #good# #friend#?\"", "\"You look #good# today #friend#!\"", "\"This is the place where the #forestanimal# lives.\"", "\"The #forestmammal# and #forestbird# are planning something.\""],
+    "narrative_quote":          ["\"Can you help me climb the #foresttree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? #sir.capitalize# #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help #sir# #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I really wanna eat #good# #food# now!\"", "\"Have you seen my #magical# #vegetable#?\"", "\"I'm so lost. Can you help me find back to my #house#?\"", "\"Me and #sir# #forestanimal.capitalize# are having #good.a# party later.\"", "\"Don't forget to tell your #friend.s# how much you love them!\"", "\"You should make some #cookie# for your #friend#!\"", "\"It's ok to be #scared# sometimes!\"", "\"Do you wanna be my #good# #friend#?\"", "\"You look #good# today #friend#!\"", "\"This is the place where the #forestanimal# lives.\"", "\"The #forestmammal# and #forestbird# are planning something.\"", "\"Can you give this #good# letter to #sir# #forestanimal#?\""],
 
 
 
 "LABELS":"",
 
-	"yourtinygarden":        ["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
+	"yourtinyrefuge":        ["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
     "yourtinyforest":        ["ғᴏʀᴇsᴛ", "ᴇᴄᴏsʏsᴛᴇᴍ", "ᴊᴜɴɢʟᴇ", "ᴡᴏᴏᴅ", "ᴡᴏᴏᴅʟᴀɴᴅ", "ɢʀᴏᴠᴇ"],
     "yourtinyplanet":        ["ᴘʟᴀɴᴇᴛ", "ʀᴇғᴜɢᴇ", "ʀᴇᴛʀᴇᴀᴛ", "ʜᴏᴍᴇ", "ᴡᴏʀʟᴅ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ"],
+
+    "yourtinyspook1":        ["sᴘᴏᴏᴋʏ", "sᴄᴀʀʏ", "ᴛɪɴʏ", "ᴄᴜᴛᴇ", "ʙʟᴏᴏᴅʏ", "ᴇᴇʀɪᴇ", "ɢʜᴏsᴛʟʏ", "ᴅᴀɪʟʏ", "ᴇᴠᴇʀʏᴅᴀʏ"],
+    "yourtinyspook2":        ["ʜᴇʟʟ", "ɴɪɢʜᴛᴍᴀʀᴇ", "ᴅᴇᴍᴏɴ", "ᴅᴇᴠɪʟ", "ʜᴀʙɪᴛ"],
+
+"COMMON WORDS":"",
+    "tr_begin":              ["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,", "hey!", "here", "now", "well", "oooh", "ooh", "PLEASE"],
+    "tr_act":                ["look at", "think about", "love", "find", "want", "create", "help", "make", "share"],
+    "tr_noun":               ["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "photos", "animations", "characters", "colors", "trees", "videos", "worlds", "adventures", "planets", "terrariums", "snails", "teas", "coffees", "places", "homes"],
+
+	"tr_answer1":            ["#tr_begin# you #tr_answer2#", "#good#", "#tr_begin#"],
+    "tr_answer2":            ["are #animalactivity#", "should #tr_act# #tr_noun#", "are #good#", "are like #good.a# #forestanimal#", "need to help - I need #good# #tr_noun#"],
 
 
 "THE END":""
