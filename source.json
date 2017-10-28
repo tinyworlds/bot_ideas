@@ -108,7 +108,7 @@
 
 "FOREST_PLANTS":"",
 
-	"foresttree":           ["beech", "pine", "acorn", "birch", "oak"],
+	"foresttree":           ["beech", "pine", "acorn", "birch", "oak"], 
 
     "forestflora":          ["#forestplant_leafy#", "#forestplant_moss#", "#flower#", "#forestfungi#"],
     "forestplant":         ["#forestplant_leafy#", "#flower#"],
