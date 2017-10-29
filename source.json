@@ -13,7 +13,7 @@
 "MODULES":"",
     "magical_animal":        ["You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#.\n#magical_end#", "You #meet# #good.a# #var_forestanimal# that is #animalactivity#.\n#magical_end#","You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#."],
 
-    "tiny_emoji":            ["#tiny_refuge#", "#tiny_forest#", "#tiny_stars#", "#tiny_island#"],
+    "tiny_emoji":            ["#tiny_refuge#", "#tiny_forest#", "#tiny_stars#", "#tiny_island#", "#tiny_forestanimal#"],
 
     "tiny_refuge":           ["#B##B##B##B##B#\n#B##A##A##A##B#\n#B##A##C##A##B#\n#B##A##A##A##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyrefuge#"],
     "tiny_forest":           ["#E##E##E##E##E#\n#E##D##D##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
@@ -21,6 +21,7 @@
     "tiny_island":           ["#I##I##I##I##I#\n#I##A##A##A##I#\n#I##A##C##A##I#\n#I##A##A##A##I#\n#I##I##I##I##I#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyrefuge#"],
 
     "tiny_spook":            ["#L##L##L##L##L#\n#L##K##K##K##L#\n#L##K##M##K##L#\n#L##K##K##K##L#\n#L##L##L##L##L#\nʏᴏᴜʀ #yourtinyspook1# #yourtinyspook2#"],
+    "tiny_forestanimal":     ["#E##E##E##E##E#\n#E##D##N##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
 
 
 "HELPERS/UTILITY":"",
@@ -44,6 +45,8 @@
     "K":                    ["#var_spook1#", "#var_spook2#"],
     "L":                    ["#var_border_spook#"],
     "M":                    ["#emoji_extraspook#"],
+
+    "N":                    ["#emoji_hat#"],
 
 
 "VERBS":"",
@@ -91,6 +94,7 @@
 
     "emoji_animal":         ["🐭", "🐰", "🦊", "🐻", "🐸", "🐦", "🦆", "🦉", "🦇", "🐺", "🐗", "🐝", "🐛", "🦋", "🐌", "🐞", "🐜", "🕷️", "🦌", "🐇", "🐁", "🐿️"],
     "emoji_house":          ["🏕️", "🏠", "🏡", "⛩️"],
+    "emoji_hat":            ["🧢", "👒", "🎩", "🎓", "👑"],
 
     "emoji_spooky":         ["🎃", "🤡", "👺", "👹", "😈", "💀", "☠️", "👻", "👁️", "👀", "🕷️", "🗡️", "🔪", "👁‍", "🗨", "🏴‍", "☠️"],
     "emoji_extraspook":     ["🎨", "🎤", "👄", "👅", "👨‍", "🍳", "👩‍", "🎓", "👩‍", "🏫", "👩‍", "⚖️", "🕵️", "🎅", "🧙‍", "♀️", "💃", "👔", "👚", "👕", "👙", "👗", "💋", "👢", "🎓", "👓", "🌧️", "⛈️", "🌨️", "☃️", "🌪️", "🍷", "🍻", "🚋", "🚕", "🚦", "⏰", "📸", "💰", "💳", "💊", "💉", "📆", "📝", "🔇", "🔔", "🕔"],
