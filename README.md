@@ -1,5 +1,5 @@
-"today I made friends with a cute cat  
-he loved wild berries as much as I do!"
+**You cross paths with a cute toad that is looking for a place to sleep.
+"Do you have any corns? I need them for my recipe."**
 
 https://twitter.com/bot_ideas 
 
@@ -8,9 +8,8 @@ This bot is an in-progress collection of art bot experiments by me.
 The source code is for the free, easy to use tool http://cheapbotsdonequick.com/.
 
 Experiments include:
-- tiny emoji gardens
-- you being in space
-- making friends with strange animals
+- tiny emoji worlds
+- magical stories with cute animals
 
 ## Reactions
 *"This immediately gave me loads of ideas!"*  
@@ -20,6 +19,5 @@ Experiments include:
 – Milan Pingel
 
 ## Tips
-- On Twitter, certain unicode symbols turn into emojis. You can use Lists such as http://emojipedia.org/twitter/ to find the unicode symbol for an emoji. You then can copy&paste them in CheapBotsDoneQuick (they will turn into Emojis after being tweeted).
-- ~~You can use http://www.txtn.us/tiny-text to create tiny text! c:~~ Tool broken :(
+- You can use https://lingojam.com/TinyTextGenerator to create tiny text for Twitter.
 - http://cheapbotsdonequick.com/ is easy enough to use, to have a playful, toy-like approach to bot making. This can yield very interesting results.
