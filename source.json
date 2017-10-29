@@ -6,7 +6,7 @@
 
 
 "IMPORTANT STUFF":"",	
-    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#][var_forest1:#emoji_flora#][var_forest2:#emoji_flora#][var_border_forest:#emoji_tree#][var_border_star:#emoji_star#][var_planet1:#emoji_planet#][var_planet2:#emoji_planet#][var_border_spook:#emoji_spooky#][var_spook1:#emoji_spooky#][var_spook2:#emoji_spooky#]"],
+    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#][var_forest1:#emoji_flora#][var_forest2:#emoji_flora#][var_border_forest:#emoji_tree#][var_border_star:#emoji_star#][var_planet1:#emoji_planet#][var_planet2:#emoji_planet#][var_border_spook:#emoji_spooky#][var_spook1:#emoji_spooky#][var_spook2:#emoji_spooky#][var_flower1:#emoji_flower#][var_flower2:#emoji_flower#]"],
     "origin":                ["#[#setvariables#]magical_animal#", "#[#setvariables#]tiny_spook#"],
 
 
@@ -22,6 +22,8 @@
 
     "tiny_spook":            ["#L##L##L##L##L#\n#L##K##K##K##L#\n#L##K##M##K##L#\n#L##K##K##K##L#\n#L##L##L##L##L#\nʏᴏᴜʀ #yourtinyspook1# #yourtinyspook2#"],
     "tiny_forestanimal":     ["#E##E##E##E##E#\n#E##D##N##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
+
+    "tiny_flowers":          ["#B##B##B##B##B#\n#B##O##O##O##B#\n#B##O##C##O##B#\n#B##O##O##O##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyflowers#"],
 
 
 "HELPERS/UTILITY":"",
@@ -47,6 +49,8 @@
     "M":                    ["#emoji_extraspook#"],
 
     "N":                    ["#emoji_hat#"],
+
+    "O":                    ["#var_flower1#", "#var_flower2#"],
 
 
 "VERBS":"",
@@ -165,6 +169,8 @@
 
     "yourtinyspook1":        ["sᴘᴏᴏᴋʏ", "sᴄᴀʀʏ", "ᴛɪɴʏ", "ᴄᴜᴛᴇ", "ʙʟᴏᴏᴅʏ", "ᴇᴇʀɪᴇ", "ɢʜᴏsᴛʟʏ", "ᴅᴀɪʟʏ", "ᴇᴠᴇʀʏᴅᴀʏ"],
     "yourtinyspook2":        ["ʜᴇʟʟ", "ɴɪɢʜᴛᴍᴀʀᴇ", "ᴅᴇᴍᴏɴ", "ᴅᴇᴠɪʟ", "ʜᴀʙɪᴛ"],
+
+	"yourtinyflowers":       ["ғʟᴏᴡᴇʀs", "ᴍᴇᴀᴅᴏᴡ", "ɢᴀʀᴅᴇɴ", "ʙᴀᴄᴋʏᴀʀᴅ", "ᴏᴀsɪs", "ᴘʟᴏᴛ", "ɢʀᴇᴇɴʜᴏᴜsᴇ"],
 
 "COMMON WORDS":"",
     "tr_begin":              ["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,", "hey!", "here", "now", "well", "oooh", "ooh", "PLEASE"],
