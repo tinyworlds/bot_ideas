@@ -6,12 +6,13 @@
 
 
 "IMPORTANT STUFF":"",	
-    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#][var_forest1:#emoji_flora#][var_forest2:#emoji_flora#][var_border_forest:#emoji_tree#][var_border_star:#emoji_star#][var_planet1:#emoji_planet#][var_planet2:#emoji_planet#][var_border_spook:#emoji_spooky#][var_spook1:#emoji_spooky#][var_spook2:#emoji_spooky#][var_flower1:#emoji_flower#][var_flower2:#emoji_flower#]"],
-    "origin":                ["#[#setvariables#]magical_animal#", "#[#setvariables#]tiny_spook#"],
+    "setvariables":          ["[var_forestanimal:#forestanimal#][var_gender:#heshe#][var_border:#emoji_garden_border#][var_garden1:#emoji_garden#][var_garden2:#emoji_garden#][var_forest1:#emoji_flora#][var_forest2:#emoji_flora#][var_border_forest:#emoji_tree#][var_border_star:#emoji_star#][var_planet1:#emoji_planet#][var_planet2:#emoji_planet#][var_border_spook:#emoji_spooky#][var_spook1:#emoji_spooky#][var_spook2:#emoji_spooky#][var_flower1:#emoji_flower#][var_flower2:#emoji_flower#][var_emoji_animal1:#emoji_animal#]"],
+    "origin":                ["#[#setvariables#]magical_animal#", "#[#setvariables#]tiny_emoji#", "#[#setvariables#]animal_talk#"],
 
 
 "MODULES":"",
     "magical_animal":        ["You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#.\n#magical_end#", "You #meet# #good.a# #var_forestanimal# that is #animalactivity#.\n#magical_end#","You #meet# #good.a# #var_forestanimal#.\n #heshe_forestanimal.capitalize# is #animalactivity#."],
+
 
     "tiny_emoji":            ["#tiny_refuge#", "#tiny_forest#", "#tiny_stars#", "#tiny_island#", "#tiny_forestanimal#"],
 
@@ -19,11 +20,12 @@
     "tiny_forest":           ["#E##E##E##E##E#\n#E##D##D##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
     "tiny_stars":            ["#G##G##G##G##G#\n#G##D##D##D##G#\n#G##D##C##D##G#\n#G##D##D##D##G#\n#G##G##G##G##G#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyplanet#"],
     "tiny_island":           ["#I##I##I##I##I#\n#I##A##A##A##I#\n#I##A##C##A##I#\n#I##A##A##A##I#\n#I##I##I##I##I#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyrefuge#"],
-
-    "tiny_spook":            ["#L##L##L##L##L#\n#L##K##K##K##L#\n#L##K##M##K##L#\n#L##K##K##K##L#\n#L##L##L##L##L#\nʏᴏᴜʀ #yourtinyspook1# #yourtinyspook2#"],
     "tiny_forestanimal":     ["#E##E##E##E##E#\n#E##D##N##D##E#\n#E##D##C##D##E#\n#E##D##D##D##E#\n#E##E##E##E##E#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyforest#"],
 
     "tiny_flowers":          ["#B##B##B##B##B#\n#B##O##O##O##B#\n#B##O##C##O##B#\n#B##O##O##O##B#\n#B##B##B##B##B#\nʏᴏᴜʀ ᴛɪɴʏ #yourtinyflowers#"],
+
+
+    "animal_talk":           ["#var_emoji_animal1#:#narrative_quote#\n#emoji_animal#:#tr_answer1#\n#var_emoji_animal1#:#tr_answer1#"],
 
 
 "HELPERS/UTILITY":"",
@@ -35,7 +37,7 @@
     "B":                    ["#var_border#"],
     "C":                    ["#emoji_garden_middle#"],
 
-    "D":                    ["#var_forest1#", "#var_forest2#"],
+    "D":                    ["#var_forest1#", "#var_forest2#", "#emoji_animal#"],
     "E":                    ["#var_border_forest#"],
 
     "F":                    ["#var_planet1#", "#var_planet2#"],
@@ -166,9 +168,6 @@
 	"yourtinyrefuge":        ["ʀᴇғᴜɢᴇ" , "ɢᴀʀᴅᴇɴ" , "ᴘʟᴀɴᴇᴛ" , "ʀᴇᴛʀᴇᴀᴛ" , "ʜᴏᴍᴇ" , "ᴄᴀᴍᴘ" , "ғᴀʀᴍ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ", "ɪsʟᴀɴᴅ"],
     "yourtinyforest":        ["ғᴏʀᴇsᴛ", "ᴇᴄᴏsʏsᴛᴇᴍ", "ᴊᴜɴɢʟᴇ", "ᴡᴏᴏᴅ", "ᴡᴏᴏᴅʟᴀɴᴅ", "ɢʀᴏᴠᴇ"],
     "yourtinyplanet":        ["ᴘʟᴀɴᴇᴛ", "ʀᴇғᴜɢᴇ", "ʀᴇᴛʀᴇᴀᴛ", "ʜᴏᴍᴇ", "ᴡᴏʀʟᴅ", "ʜɪᴅᴇᴏᴜᴛ", "sʜᴇʟᴛᴇʀ"],
-
-    "yourtinyspook1":        ["sᴘᴏᴏᴋʏ", "sᴄᴀʀʏ", "ᴛɪɴʏ", "ᴄᴜᴛᴇ", "ʙʟᴏᴏᴅʏ", "ᴇᴇʀɪᴇ", "ɢʜᴏsᴛʟʏ", "ᴅᴀɪʟʏ", "ᴇᴠᴇʀʏᴅᴀʏ"],
-    "yourtinyspook2":        ["ʜᴇʟʟ", "ɴɪɢʜᴛᴍᴀʀᴇ", "ᴅᴇᴍᴏɴ", "ᴅᴇᴠɪʟ", "ʜᴀʙɪᴛ"],
 
 	"yourtinyflowers":       ["ғʟᴏᴡᴇʀs", "ᴍᴇᴀᴅᴏᴡ", "ɢᴀʀᴅᴇɴ", "ʙᴀᴄᴋʏᴀʀᴅ", "ᴏᴀsɪs", "ᴘʟᴏᴛ", "ɢʀᴇᴇɴʜᴏᴜsᴇ"],
 
