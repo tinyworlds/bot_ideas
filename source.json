@@ -27,7 +27,6 @@
 
     "animal_talk":           ["#var_emoji_animal1#: #narrative_quote.capitalize#\n#emoji_animal#: \"#tr_answer1.capitalize#\"\n#var_emoji_animal1#: \"#tr_answer1.capitalize#\""],
 
-
 "HELPERS/UTILITY":"",
 
 	"heshe":                ["he", "she", "it"],
@@ -67,7 +66,7 @@
 "ADJECTIVES":"",
 
 	"good":                 ["#magical#", "#cute#", "#nice#", "#pretty#", "#creative#", "#happy#"],
-	"magical":              ["enchanted", "glowing", "bewitched", "ghostly", "haunted", "occult","imaginary"],
+	"magical":              ["enchanted", "glowing", "bewitched", "ghostly", "haunted", "occult","imaginary", "magical"],
 	"cute":                 ["fuzzy", "soft", "tiny", "round", "big-eyed", "#pretty#", "cute"],
 	"nice":                 ["wonderful", "lovely", "awesome", "amazing", "nice"],
     "pretty":               ["gorgeous", "beautiful", "pretty", "stunning"],
@@ -92,6 +91,9 @@
     "emoji_star":           ["⭐", "🌟", "✨", "💫", "🌠", "☄️", "🎆", "🎇"],
     "emoji_space":          ["🌚", "🌝", "🌎", "🌍", "🌏", "🚀", "🌠"],
     "emoji_planet":         ["#emoji_garden#"],
+"emoji_furniture":		["📺", "☎️", "📻", "⏰", "🔮", "🛁", "🚽", "🛏️", "🛋️", "🎁", "🕹️", "🕯️", "⚰️", "⚗️", "🔭", "🔬",  "🎏", "📚"],
+"emoji_walldeco":		["🕸️", "🏅", "🎨", "⚔️", "🛡️", "🖼️", "📅", "📃", "📜", "🏮", "🗺️", "🏴‍☠️", "🏳️‍🌈"],
+"emoji_weather":		["🌕", "🌒", "🌚", "🌝", "🌛", "🌞", "⭐️", "🌟", "✨", "☀️", "🌤️", "🌦️", "☁️", "⛈️", "🌧️", "🌩️", "💥", "🌨️", "💦"],
     
 
     "emoji_garden_border":  ["#emoji_flower#", "#emoji_weed#", "#emoji_tree#", "#emoji_heart#", "#emoji_fancy#"],
@@ -117,8 +119,8 @@
     
 	"forestanimal":         ["#forestbird#", "#forestmammal#", "#forestamphibian#", "#forestcritter#"],
 	"forestbird":           ["blackbird", "raven", "owl ", "blue tit", "black tit", "robin"],
-	"forestmammal":         ["bear", "deer", "bunny", "fox", "squirrel", "hedgehog", "bat"],
-	"forestamphibian":      ["toad", "frog"],
+	"forestmammal":         ["bear", "deer", "bunny", "fox", "squirrel", "hedgehog", "bat", "boar", "lynx"],
+	"forestamphibian":      ["toad", "frog", "newt"],
 	"forestcritter":        ["snail", "grasshopper", "woodlouse", "ladybug", "ant", "wasp", "bee", "worm", "dragonfly", "hornet", "butterfly", "centipede", "caterpillar"],
 
 
@@ -139,7 +141,7 @@
 "ARCHITECTURE":"",
     
     "refuge":               ["refuge", "home", "retreat", "shelter"],
-    "house":                ["#refuge#", "cabin", "tower", "treehouse", "lake house"],
+    "house":                ["#refuge#", "cabin", "tower", "treehouse", "lake house", "house boat"],
 
 
 "FOOD STUFF":"",
@@ -147,7 +149,7 @@
     "food":                 ["#meal#", "#smoothie#", "#cookie#", "#cake#"],
 	"meal":                 ["#vegetable# #meal_type#"],
 	"smoothie":             ["#fruit# smoothie", "#fruit# and #fruit# smoothie"],
-	"cookie":               ["#fruit# cookies", "#nut# cookies"],
+	"cookie":               ["#fruit# cookie", "#nut# cookie"],
     "cake":                 ["#fruit# cake", "#nut# cake", "#fruit# and #nut# cake", "#fruit# and #fruit# cake"],
 
 	"food_adjective":       ["tasty", "crispy", "delicious", "aromatic", "flavorful", "special"],
@@ -157,17 +159,19 @@
 	"fruit":                ["banana", "cherry", "strawberry", "orange", "grape", "apple", "peach", "carrot", "lemon", "pear", "blueberry", "cranberry"],
 	"nut":                  ["almond", "walnut", "hazelnut", "cashew", "pistachio", "macadamia", "peanut"],
 
+"TEA":"",
+
+    "tea":                  ["#forestplant# tea", "#forestplant# and #forestplant# tea"],
 
 
 "NARRATIVE":"",
 
-	"animalactivity":           ["looking for #friendly.a# friend", "looking for someone to have #good.a# day with", "looking for resources to build #house.a#", "looking for #good.a# place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting #good# acorns", "playing in the leaves", "building a treehouse in the old #foresttree#", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating #food#", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made out of #forestplant.s#", "building a spaceship to go exploring", "playing with a ball they found", "building #house.a# that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food (it's #food#)", "preparing a big meal for the other animals", "preparing #food# for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a #good# letter to their friend", "pressing #forestplant.s# and #forestplant.s# for their collection", "learning how to be a better gardener", "caring for their beloved veggies and #flower.s#", "watering the #flower.s#", "sleeping in a tent tonight", "chasing #forestcritter.s#", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good #meal#", "sitting by a cozy fire", "sitting by the campfire", "dreaming about happy things", "learning how to play guitar", "wishing #var_gender# had a friend to play with", "giving really good hugs", "in need for a comforting hug", "playing hide & seek with their best friend #sir# #forestanimal#", "making snow angels", "opening a present by #sir# #forestanimal#", "thinking about how it would be to be #sir.a#", "thinking about their old #house#", "imagining what it would be like to live in #forestflora.a#", "decorating their #house# with #forestflora#", "looking for #forestflora#"],
+	"animalactivity":           ["looking for #friendly.a# friend", "looking for someone to have #good.a# day with", "looking for resources to build #house.a#", "looking for #good.a# place to rest", "searching for their favorite toy", "looking for a cool hat", "looking for a place to sleep", "dozing in the warm sunlight", "playing in the puddles", "collecting #good# acorns", "playing in the leaves", "building a treehouse in the old #foresttree#", "smiling at you", "practicing how to do cool backflips", "dozing in the coziest pyjama ever", "building a little boat", "looking for their treecave", "eating #food#", "screaming at the top of their lungs", "practicing funny faces", "sleeping in a soft bed made out of #forestplant.s#", "building a spaceship to go exploring", "playing with a ball they found", "building #house.a# that looks like a castle", "making music by knocking on a hollow tree", "painting for the first time ever", "creating an art gallery with works from the other animals", "trying to become a better artist", "getting ready for their cozy winter sleep", "reading a book they found", "cooking their favorite food (it's #food#)", "preparing a big meal for the other animals", "preparing #food# for a romantic dinner", "fighting against imaginary bad guys with a wooden sword", "writing a #good# letter to their friend", "pressing #forestplant.s# and #forestplant.s# for their collection", "learning how to be a better gardener", "caring for their beloved veggies and #flower.s#", "watering the #flower.s#", "sleeping in a tent tonight", "chasing #forestcritter.s#", "listening to the sound of the rain", "staring at the clouds", "pondering about life", "writing a short poem", "working on their first novel", "trying to find friends", "very confused", "thinking it's ok sometimes to be confused", "saying each of their friends how much they love them", "making a good #meal#", "sitting by a cozy fire", "sitting by the campfire", "dreaming about happy things", "learning how to play guitar", "wishing #var_gender# had a friend to play with", "giving really good hugs", "in need for a comforting hug", "playing hide & seek with their best friend #sir.capitalize# #forestanimal#", "making snow angels", "opening a present by #sir.capitalize# #forestanimal#", "thinking about how it would be to be #sir.a#", "thinking about their old #house#", "imagining what it would be like to live in #forestflora.a#", "decorating their #house# with #forestflora#", "looking for #forestflora#", "reading a good book by the fire", "snuggling in a cozy blanket", "staring into a candle flame", "staring into the campfire", "making fire in the oven", "enjoying #food_adjective# #cookie#.s", "eating some good food with #forestanimal#", "talking about the good old times with their #friend# #forestanimal#", "making everything nice and cozy", "drinking some #nice# #tea#", "preparing a good cup of #tea#", "collecting wood for a cozy fire", "foraging for some #forestplant.s#", "making medicine from #forestplant#", "drying some #forestplant# for tea"],
 
 
     "magical_end":              ["#narrative_quote#"],
 
-    "narrative_quote":          ["\"Can you help me climb the #foresttree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? #sir.capitalize# #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help #sir# #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I really wanna eat #good# #food# now!\"", "\"Have you seen my #magical# #vegetable#?\"", "\"I'm so lost. Can you help me find back to my #house#?\"", "\"Me and #sir# #forestanimal.capitalize# are having #good.a# party later.\"", "\"Don't forget to tell your #friend.s# how much you love them!\"", "\"You should make some #cookie# for your #friend#!\"", "\"It's ok to be #scared# sometimes!\"", "\"Do you wanna be my #good# #friend#?\"", "\"You look #good# today #friend#!\"", "\"This is the place where the #forestanimal# lives.\"", "\"The #forestmammal# and #forestbird# are planning something.\"", "\"Can you give this #good# letter to #sir# #forestanimal#?\"", "\"Can you help me find #sir# #forestanimal#?\"", "\"I'm collecting everything to cook #food#. Can you help?\"", "\"My tummy is making funny noises.\"", "\"Can you teach me how to be #good#?\"", "\"What #good.a# day to #tr_act# #tr_noun#.\"", "\"Ok, let's #tr_act# #tr_noun#!\"", "\"Psst, I'm actually #good.a# #forestanimal#.\"", "\"#tr_begin.capitalize# look at my #vegetable# plant!\"", "\"Pssst, I'm painting #artmotif.a#!\"", "\"Look! I painted #artmotif.a#.\"", "\"Can you paint me #artmotif.a#?\"", "\"Would this #artmotif# painting fit my #good# #house#?\"", "\"Psst, I'm dreaming about #artmotif.a#.\""],
-
+    "narrative_quote":          ["\"Can you help me climb the #foresttree#?\" asks the #var_forestanimal#.", "#var_gender.capitalize# noticed you. \"Do you want some #food#?\"", "\"Here\" #var_gender# says, \"this #flower# is for you.\"", "\"Hey you!\" #var_gender# says, \"Come take a look at my #house#.\"", "\"What do you think of my #house#\" #var_gender# asks.", "\"Can you collect me some #flower.s#?\" #var_gender# asks, \"They are my favorite.\"", "\"Have you seen any #forestanimal.s# around here?\"", "\"Do you have any #vegetable.s#? I need them for my recipe.\"", "\"Have you heard? #sir.capitalize# #forestanimal.capitalize# is #animalactivity#.\"", "\"Please help #sir.capitalize# #forestanimal.capitalize#. #var_gender.capitalize# is #animalactivity#.\"", "\"Wow I really wanna eat #good# #food# now!\"", "\"Have you seen my #magical# #vegetable#?\"", "\"I'm so lost. Can you help me find back to my #house#?\"", "\"Me and #sir.capitalize# #forestanimal.capitalize# are having #good.a# party later.\"", "\"Don't forget to tell your #friend.s# how much you love them!\"", "\"You should make some #cookie# for your #friend#!\"", "\"It's ok to be #scared# sometimes!\"", "\"Do you wanna be my #good# #friend#?\"", "\"You look #good# today #friend#!\"", "\"This is the place where the #forestanimal# lives.\"", "\"The #forestmammal# and #forestbird# are planning something.\"", "\"Can you give this #good# letter to #sir.capitalize# #forestanimal#?\"", "\"Can you help me find #sir.capitalize# #forestanimal#?\"", "\"I'm collecting everything to cook #food#. Can you help?\"", "\"My tummy is making funny noises.\"", "\"Can you teach me how to be #good#?\"", "\"What #good.a# day to #tr_act# #tr_noun#.\"", "\"Ok, let's #tr_act# #tr_noun#!\"", "\"Psst, I'm actually #good.a# #forestanimal#.\"", "\"#tr_begin.capitalize# look at my #vegetable# plant!\"", "\"Pssst, I'm painting #artmotif.a#!\"", "\"Look! I painted #artmotif.a#.\"", "\"Can you paint me #artmotif.a#?\"", "\"Would this #artmotif# painting fit my #good# #house#?\"", "\"Psst, I'm dreaming about #artmotif.a#.\"", "\"Let's make some #meal# together!\"", "\"Let's enjoy the cozy fire together.\"", "\"#sir.capitalize# #forestanimal# told me to find the most #good# #forestanimal#. Can you help?\"", "\"I'm #animalactivity#. Do you want to join?\"", "\"Hello. Here have some of my #cookie.s#.\"", "\"Can you help me write a song about #sir.capitalize# #forestanimal#?\"", "\"I just love #animalactivity#.\"", "\"I'm feeling very #lazy# today.\"", "\"This #forestplant# is #magical#!\"", "\"Have you heard the tales about the #magical# #forestanimal#?\"", "\"Help! My house is #magical#.\"", "\"I'm way too lazy to be #animalactivity#.\"", "\"This afternoon I'll be #animalactivity#. Do you want to come?\"", "\"#friend.capitalize#, let's make #food# together!\"", "\"I found a treasure map leading to a #magical# place. Want to come?\"", "\"Did you hear the stories about the #magical# #forestanimal#?\"", "\"Oh no, I added #magical.a# #vegetable# to the #meal#.\"", "\"Psst, #sire.capitalize# #forestanimal# makes the best #food.s#!\"", "\"Sometimes I ask myself what I'd be like as #forestanimal.a#.\"", "\"People keep telling me I look like #forestanimal.a#.\"", "\"Can you help me make my #house# look more #good#?\""],
 
 
 "LABELS":"",
@@ -179,9 +183,9 @@
 	"yourtinyflowers":       ["ғʟᴏᴡᴇʀs", "ᴍᴇᴀᴅᴏᴡ", "ɢᴀʀᴅᴇɴ", "ʙᴀᴄᴋʏᴀʀᴅ", "ᴏᴀsɪs", "ᴘʟᴏᴛ", "ɢʀᴇᴇɴʜᴏᴜsᴇ"],
 
 "COMMON WORDS":"",
-    "tr_begin":              ["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,", "hey!", "here", "now", "well", "oooh", "ooh", "PLEASE", "cute"],
-    "tr_act":                ["look at", "think about", "love", "find", "want", "create", "help", "make", "share", "draw", "feel", "follow"],
-    "tr_noun":               ["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "photos", "animations", "characters", "colors", "trees", "videos", "worlds", "adventures", "planets", "terrariums", "snails", "teas", "coffees", "places", "homes", "artists", "bots", "boys", "cats", "designers", "dogs", "humans", "indies", "students", "writers"],
+    "tr_begin":              ["hi", "oh", "actually", "maybe", "so", "aww", "haha", "thanks,", "wow!", "yeah,", "hey!", "here", "now", "well", "oooh", "ooh", "PLEASE", "cute", "yes", "no"],
+    "tr_act":                ["look at", "think about", "love", "find", "want", "create", "help", "make", "share", "draw", "feel", "follow", "dream about", "hate", "forget about", "paint", "write about", "experience"],
+    "tr_noun":               ["games", "art", "forests", "stuff", "bots", "illustrations", "things", "nature", "photos", "animations", "characters", "colors", "trees", "videos", "worlds", "adventures", "planets", "terrariums", "snails", "teas", "coffees", "places", "homes", "artists", "bots", "boys", "cats", "designers", "dogs", "humans", "indies", "students", "writers", "books", "creators", "lovers", "yourself"],
 
 	"tr_answer1":            ["#tr_begin# you #tr_answer2#", "#good#", "#tr_begin#"],
     "tr_answer2":            ["are #animalactivity#", "should #tr_act# #tr_noun#", "are #good#", "are like #good.a# #forestanimal#", "need to help - I need #good# #tr_noun#"],
